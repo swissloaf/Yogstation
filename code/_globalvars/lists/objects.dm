@@ -22,6 +22,7 @@ GLOBAL_LIST_EMPTY(surgeries_list)				//list of all surgeries by name, associated
 GLOBAL_LIST_EMPTY(crafting_recipes)				//list of all table craft recipes
 GLOBAL_LIST_EMPTY(rcd_list)					//list of Rapid Construction Devices.
 GLOBAL_LIST_EMPTY(apcs_list)					//list of all Area Power Controller machines, separate from machines for powernet speeeeeeed.
+GLOBAL_LIST_EMPTY(breakers_list)				//list of all power breakers, used for the power flow control console
 GLOBAL_LIST_EMPTY(tracked_implants)			//list of all current implants that are tracked to work out what sort of trek everyone is on. Sadly not on lavaworld not implemented...
 GLOBAL_LIST_EMPTY(tracked_chem_implants)			//list of implants the prisoner console can track and send inject commands too
 GLOBAL_LIST_EMPTY(poi_list)					//list of points of interest for observe/follow

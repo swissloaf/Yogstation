@@ -2354,6 +2354,7 @@
 #include "code\modules\plumbing\ducts.dm"
 #include "code\modules\plumbing\plumbers\pumps.dm"
 #include "code\modules\power\apc.dm"
+#include "code\modules\power\breaker.dm"
 #include "code\modules\power\cable.dm"
 #include "code\modules\power\cell.dm"
 #include "code\modules\power\floodlight.dm"

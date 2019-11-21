@@ -13,6 +13,8 @@
 	var/list/logs
 	var/authenticated = 0
 	var/auth_id = "\[NULL\]"
+	var/show_apcs = FALSE
+	var/show_breakers = FALSE
 
 /obj/machinery/computer/apc_control/Initialize()
 	. = ..()
@@ -46,25 +48,33 @@
 	if(authenticated)
 		if(!checking_logs)
 			dat += "Logged in as [auth_id].<br><br>"
-			dat += "<i>Filters</i><br>"
-			dat += "<b>Name:</b> <a href='?src=[REF(src)];name_filter=1'>[result_filters["Name"] ? result_filters["Name"] : "None set"]</a><br>"
-			dat += "<b>Charge:</b> <a href='?src=[REF(src)];above_filter=1'>\>[result_filters["Charge Above"] ? result_filters["Charge Above"] : "NaN"]%</a> and <a href='?src=[REF(src)];below_filter=1'>\<[result_filters["Charge Below"] ? result_filters["Charge Below"] : "NaN"]%</a><br>"
-			dat += "<b>Accessible:</b> <a href='?src=[REF(src)];access_filter=1'>[result_filters["Responsive"] ? "Non-Responsive Only" : "All"]</a><br><br>"
-			for(var/A in GLOB.apcs_list)
-				if(check_apc(A))
-					var/obj/machinery/power/apc/APC = A
-					if(result_filters["Name"] && !findtext(APC.name, result_filters["Name"]) && !findtext(APC.area.name, result_filters["Name"]))
-						continue
-					if(result_filters["Charge Above"] && (!APC.cell || (APC.cell && (APC.cell.charge / APC.cell.maxcharge) < result_filters["Charge Above"] / 100)))
-						continue
-					if(result_filters["Charge Below"] && APC.cell && (APC.cell.charge / APC.cell.maxcharge) > result_filters["Charge Below"] / 100)
-						continue
-					if(result_filters["Responsive"] && !APC.aidisabled)
-						continue
-					dat += "<a href='?src=[REF(src)];access_apc=[REF(APC)]'>[A]</a><br>\
-					<b>Charge:</b> [APC.cell ? "[DisplayEnergy(APC.cell.charge)] / [DisplayEnergy(APC.cell.maxcharge)] ([round((APC.cell.charge / APC.cell.maxcharge) * 100)]%)" : "No Powercell Installed"]<br>\
-					<b>Area:</b> [APC.area]<br>\
-					[APC.aidisabled || APC.panel_open ? "<font color='#FF0000'>APC does not respond to interface query.</font>" : "<font color='#00FF00'>APC responds to interface query.</font>"]<br><br>"
+			dat += "Show APCs: <a href='?src=[REF(src)];show_apcs=1'>[show_apcs ? "Yes" : "No"]</a><br>"
+			dat += "Show breakers: <a href='?src=[REF(src)];show_breakers=1'>[show_breakers ? "Yes" : "No"]</a><br>"
+			if(show_apcs)
+				dat += "<i>Filters</i><br>"
+				dat += "<b>Name:</b> <a href='?src=[REF(src)];name_filter=1'>[result_filters["Name"] ? result_filters["Name"] : "None set"]</a><br>"
+				dat += "<b>Charge:</b> <a href='?src=[REF(src)];above_filter=1'>\>[result_filters["Charge Above"] ? result_filters["Charge Above"] : "NaN"]%</a> and <a href='?src=[REF(src)];below_filter=1'>\<[result_filters["Charge Below"] ? result_filters["Charge Below"] : "NaN"]%</a><br>"
+				dat += "<b>Accessible:</b> <a href='?src=[REF(src)];access_filter=1'>[result_filters["Responsive"] ? "Non-Responsive Only" : "All"]</a><br><br>"
+				for(var/A in GLOB.apcs_list)
+					if(check_apc(A))
+						var/obj/machinery/power/apc/APC = A
+						if(result_filters["Name"] && !findtext(APC.name, result_filters["Name"]) && !findtext(APC.area.name, result_filters["Name"]))
+							continue
+						if(result_filters["Charge Above"] && (!APC.cell || (APC.cell && (APC.cell.charge / APC.cell.maxcharge) < result_filters["Charge Above"] / 100)))
+							continue
+						if(result_filters["Charge Below"] && APC.cell && (APC.cell.charge / APC.cell.maxcharge) > result_filters["Charge Below"] / 100)
+							continue
+						if(result_filters["Responsive"] && !APC.aidisabled)
+							continue
+						dat += "<a href='?src=[REF(src)];access_apc=[REF(APC)]'>[A]</a><br>\
+						<b>Charge:</b> [APC.cell ? "[DisplayEnergy(APC.cell.charge)] / [DisplayEnergy(APC.cell.maxcharge)] ([round((APC.cell.charge / APC.cell.maxcharge) * 100)]%)" : "No Powercell Installed"]<br>\
+						<b>Area:</b> [APC.area]<br>\
+						[APC.aidisabled || APC.panel_open ? "<font color='#FF0000'>APC does not respond to interface query.</font>" : "<font color='#00FF00'>APC responds to interface query.</font>"]<br><br>"
+			if(show_breakers)
+				dat += "<b>Breakers:</b> <br>"
+				for(var/B in GLOB.breakers_list)
+					var/obj/machinery/power/breaker/BR = B
+					dat += "<b>[BR.name]</b><br><b>Area:</b> [BR.area]<br><b>Status:</b> [BR.on ? "<font color='#00FF00'>Online</font>" : "<font color='#FF0000'>Offline</font>"]<br><a href='?src=[REF(src)];flip_breaker=[REF(BR)]'>Toggle</a><br>"
 			dat += "<a href='?src=[REF(src)];check_logs=1'>Check Logs</a><br>"
 			dat += "<a href='?src=[REF(src)];log_out=1'>Log Out</a><br>"
 			if(obj_flags & EMAGGED)
@@ -180,6 +190,15 @@
 		log_activity("checked APCs")
 	if(href_list["clear_logs"])
 		logs = list()
+	if(href_list["flip_breaker"])
+		playsound(src, "terminal_type", 50, 0)
+		var/obj/machinery/power/breaker/B = locate(href_list["flip_breaker"]) in GLOB.breakers_list	
+		B.flip_breaker(!B.on)
+		log_activity("toggled [B] to [B.on ? "on" : "off"]")
+	if(href_list["show_apcs"])
+		show_apcs = !show_apcs
+	if(href_list["show_breakers"])
+		show_breakers = !show_breakers
 	ui_interact(usr) //Refresh the UI after a filter changes
 
 /obj/machinery/computer/apc_control/emag_act(mob/user)
