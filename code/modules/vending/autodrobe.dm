@@ -203,9 +203,7 @@
 				   /obj/item/clothing/head/clownmitre = 1,
 		           /obj/item/skub = 1,
 				   /obj/item/clothing/suit/hooded/skubsuit = 1,
-				   /obj/item/clothing/head/hooded/skubsuit = 1,
 				   /obj/item/clothing/suit/hooded/antiskubsuit = 1,
-				   /obj/item/clothing/head/hooded/antiskubsuit = 1,
 		           /obj/item/clothing/under/lampskirt = 1,
 		           /obj/item/clothing/under/yogs/soviet_dress_uniform = 1, //yogs start
 		           /obj/item/clothing/under/yogs/enclaveo = 1,
