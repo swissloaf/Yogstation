@@ -87,6 +87,8 @@
 
 	var/list/seen_messages // Messages currently seen by this client
 	var/list/spell_tabs = list()
+	
+	var/list/recent_examines
 
 	//rate limiting for the crew manifest
 	var/crew_manifest_delay
