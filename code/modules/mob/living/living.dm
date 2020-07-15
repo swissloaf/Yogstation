@@ -1304,3 +1304,7 @@
 			update_transform()
 		if("lighting_alpha")
 			sync_lighting_plane_alpha()
+
+/// Only defined for carbons who can wear masks and helmets, we just assume other mobs have visible faces
+/mob/living/proc/is_face_visible()
+	return TRUE
