@@ -328,3 +328,6 @@
 #define WABBAJACK     (1<<6)
 
 #define SLEEP_CHECK_DEATH(X) sleep(X); if(QDELETED(src) || stat == DEAD) return;
+
+// How far away you can be to make eye contact with someone while examining
+#define EYE_CONTACT_RANGE	5
