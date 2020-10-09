@@ -1,4 +1,13 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"b" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/grenade/clusterbuster,
+/obj/item/grenade/chem_grenade/incendiary,
+/turf/open/floor/circuit/red,
+/area/space)
 "g" = (
 /obj/structure/closet/secure_closet/gamma/sniper,
 /turf/open/floor/circuit/red,
@@ -10,28 +19,12 @@
 "l" = (
 /turf/closed/wall/mineral/titanium,
 /area/space)
-"m" = (
-/obj/structure/table/reinforced,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/grenade/clusterbuster,
-/obj/item/grenade/chem_grenade/incendiary,
-/turf/open/floor/circuit/red,
-/area/space)
 "n" = (
 /obj/structure/sign/warning/securearea,
 /turf/closed/wall/mineral/titanium,
 /area/space)
 "s" = (
 /obj/structure/closet/secure_closet/gamma/pistol,
-/turf/open/floor/circuit/red,
-/area/space)
-"C" = (
-/obj/structure/cable{
-	icon_state = "0-8"
-	},
-/obj/machinery/computer/mech_bay_power_console,
 /turf/open/floor/circuit/red,
 /area/space)
 "F" = (
@@ -43,7 +36,22 @@
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/space)
-"K" = (
+"H" = (
+/obj/machinery/door/airlock/hatch/gamma{
+	use_power = 0
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"I" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/computer/mech_bay_power_console{
+	dir = 1
+	},
+/turf/open/floor/circuit/red,
+/area/space)
+"N" = (
 /obj/structure/cable{
 	icon_state = "4-8"
 	},
@@ -52,12 +60,6 @@
 	operation_req_access = list(3)
 	},
 /turf/open/floor/mech_bay_recharge_floor,
-/area/space)
-"O" = (
-/obj/machinery/door/airlock/hatch/gamma{
-	use_power = 0
-	},
-/turf/open/floor/mineral/plastitanium/red,
 /area/space)
 "P" = (
 /turf/open/floor/mineral/plastitanium/red,
@@ -112,9 +114,9 @@ l
 l
 Z
 P
-m
+b
 P
-K
+N
 l
 "}
 (5,1,1) = {"
@@ -123,14 +125,14 @@ g
 P
 P
 P
-C
+I
 l
 "}
 (6,1,1) = {"
 l
 l
 l
-O
+H
 n
 l
 l
