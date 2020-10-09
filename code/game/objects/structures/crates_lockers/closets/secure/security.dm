@@ -288,3 +288,56 @@
 	..()
 	for(var/i in 1 to 3)
 		new /obj/item/storage/box/lethalshot(src)
+		
+/obj/structure/closet/secure_closet/gamma
+	name = "secure gamma locker"
+	req_access = list(ACCESS_ARMORY)
+	icon_state = "tac"
+	
+/obj/structure/closet/secure_closet/gamma/shotgun
+	name = "gamma shotgun locker"
+	
+/obj/structure/closet/secure_closet/gamma/shotgun/PopulateContents()
+	..()
+	for(var/i in 1 to 3)
+		new /obj/item/storage/box/lethalshot(src)
+	for(var/i in 1 to 3)
+		new /obj/item/gun/ballistic/shotgun/lethal
+		
+/obj/structure/closet/secure_closet/gamma/pistol
+	name = "gamma secondary locker"
+	
+/obj/structure/closet/secure_closet/gamma/pistol/PopulateContents()
+	..()
+	for(var/i in 1 to 3)
+		new /obj/item/gun/ballistic/automatic/pistol/m1911
+	for(var/i in 1 to 3)
+		new /obj/item/ammo_box/magazine/m45
+		
+/obj/structure/closet/secure_closet/gamma/energy
+	name = "gamma energy locker"
+	
+/obj/structure/closet/secure_closet/gamma/energy/PopulateContents()
+	..()
+	for(var/i in 1 to 3)
+		new /obj/item/gun/energy/e_gun/nuclear
+
+/obj/structure/closet/secure_closet/gamma/sniper
+	name = "gamma sniper locker"
+	
+/obj/structure/closet/secure_closet/gamma/sniper/PopulateContents()
+	..()
+	for(var/i in 1 to 3)
+		new /obj/item/gun/ballistic/automatic/sniper_rifle
+	for(var/i in 1 to 3)
+		new /obj/item/ammo_box/magazine/sniper_rounds
+		
+/obj/structure/closet/secure_closet/gamma/rocket
+	name = "gamma rocket locker"
+	
+/obj/structure/closet/secure_closet/gamma/rocket/PopulateContents()
+	..()
+	new /obj/item/gun/ballistic/rocketlauncher
+	new /obj/item/ammo_casing/caseless/rocket/hedp
+	for(var/i in 1 to 2)
+		new /obj/item/ammo_casing/caseless/rocket
