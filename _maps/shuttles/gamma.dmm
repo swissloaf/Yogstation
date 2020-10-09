@@ -1,12 +1,13 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"b" = (
-/obj/structure/table/reinforced,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/grenade/clusterbuster,
-/obj/item/grenade/chem_grenade/incendiary,
-/turf/open/floor/circuit/red,
+"d" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/mecha/combat/durand{
+	internals_req_access = list(3);
+	operation_req_access = list(3)
+	},
+/turf/open/floor/mech_bay_recharge_floor,
 /area/space)
 "g" = (
 /obj/structure/closet/secure_closet/gamma/sniper,
@@ -27,6 +28,15 @@
 /obj/structure/closet/secure_closet/gamma/pistol,
 /turf/open/floor/circuit/red,
 /area/space)
+"C" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/computer/mech_bay_power_console{
+	dir = 1
+	},
+/turf/open/floor/circuit/red,
+/area/space)
 "F" = (
 /obj/machinery/power/apc{
 	pixel_y = -24
@@ -36,30 +46,14 @@
 	},
 /turf/open/floor/mineral/plastitanium/red,
 /area/space)
-"H" = (
-/obj/machinery/door/airlock/hatch/gamma{
-	use_power = 0
-	},
-/turf/open/floor/mineral/plastitanium/red,
-/area/space)
-"I" = (
-/obj/structure/cable{
-	icon_state = "0-8"
-	},
-/obj/machinery/computer/mech_bay_power_console{
-	dir = 1
-	},
+"O" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/grenade/clusterbuster,
+/obj/item/grenade/chem_grenade/incendiary,
 /turf/open/floor/circuit/red,
-/area/space)
-"N" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-	},
-/obj/mecha/combat/durand{
-	internals_req_access = list(3);
-	operation_req_access = list(3)
-	},
-/turf/open/floor/mech_bay_recharge_floor,
 /area/space)
 "P" = (
 /turf/open/floor/mineral/plastitanium/red,
@@ -67,6 +61,12 @@
 "T" = (
 /obj/structure/closet/secure_closet/gamma/shotgun,
 /turf/open/floor/circuit/red,
+/area/space)
+"X" = (
+/obj/machinery/door/airlock/hatch/gamma{
+	use_power = 0
+	},
+/turf/open/floor/mineral/plastitanium/red,
 /area/space)
 "Y" = (
 /obj/structure/cable{
@@ -114,9 +114,9 @@ l
 l
 Z
 P
-b
+O
 P
-N
+d
 l
 "}
 (5,1,1) = {"
@@ -125,14 +125,14 @@ g
 P
 P
 P
-I
+C
 l
 "}
 (6,1,1) = {"
 l
 l
 l
-H
+X
 n
 l
 l
