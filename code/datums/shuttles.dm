@@ -116,6 +116,9 @@
 
 /datum/map_template/shuttle/whiteship
 	port_id = "whiteship"
+	
+/datum/map_template/shuttle/gamma
+	port_id = "gamma"
 
 /datum/map_template/shuttle/labour
 	port_id = "labour"
