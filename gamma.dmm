@@ -1,0 +1,102 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"d" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"l" = (
+/turf/closed/wall/mineral/titanium,
+/area/space)
+"n" = (
+/obj/structure/sign/warning/securearea,
+/turf/closed/wall/mineral/titanium,
+/area/space)
+"x" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/computer/mech_bay_power_console,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"C" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/mech_bay_recharge_floor,
+/area/space)
+"F" = (
+/obj/machinery/power/apc{
+	pixel_y = -24
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"N" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/mech_bay_recharge_port,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"P" = (
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+
+(1,1,1) = {"
+l
+l
+l
+l
+l
+n
+l
+"}
+(2,1,1) = {"
+l
+P
+P
+P
+P
+F
+l
+"}
+(3,1,1) = {"
+l
+P
+P
+P
+P
+N
+l
+"}
+(4,1,1) = {"
+l
+P
+P
+d
+P
+C
+l
+"}
+(5,1,1) = {"
+l
+P
+P
+P
+P
+x
+l
+"}
+(6,1,1) = {"
+l
+l
+l
+l
+n
+l
+l
+"}
