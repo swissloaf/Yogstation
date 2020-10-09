@@ -1,20 +1,26 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/obj/structure/table/reinforced,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/grenade/flashbang,
-/obj/item/grenade/clusterbuster,
-/turf/open/floor/mineral/plastitanium/red,
-/area/space)
-"e" = (
-/obj/structure/closet/secure_closet/gamma/shotgun,
-/turf/open/floor/mineral/plastitanium/red,
-/area/space)
-"j" = (
 /obj/structure/closet/secure_closet/gamma/sniper,
-/turf/open/floor/mineral/plastitanium/red,
+/turf/open/floor/circuit/red,
+/area/space)
+"d" = (
+/obj/structure/closet/secure_closet/gamma/energy,
+/turf/open/floor/circuit/red,
+/area/space)
+"h" = (
+/obj/structure/closet/secure_closet/gamma/rocket,
+/turf/open/floor/circuit/red,
+/area/space)
+"i" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/computer/mech_bay_power_console,
+/turf/open/floor/circuit/red,
+/area/space)
+"k" = (
+/obj/structure/closet/secure_closet/gamma/pistol,
+/turf/open/floor/circuit/red,
 /area/space)
 "l" = (
 /turf/closed/wall/mineral/titanium,
@@ -23,20 +29,24 @@
 /obj/structure/sign/warning/securearea,
 /turf/closed/wall/mineral/titanium,
 /area/space)
-"s" = (
-/obj/structure/closet/secure_closet/gamma/pistol,
-/turf/open/floor/mineral/plastitanium/red,
-/area/space)
-"x" = (
+"o" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
 /obj/structure/cable{
 	icon_state = "0-8"
 	},
-/obj/machinery/computer/mech_bay_power_console,
-/turf/open/floor/mineral/plastitanium/red,
+/obj/machinery/mech_bay_recharge_port,
+/turf/open/floor/circuit/red,
 /area/space)
-"A" = (
-/obj/structure/closet/secure_closet/gamma/rocket,
-/turf/open/floor/mineral/plastitanium/red,
+"w" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/grenade/flashbang,
+/obj/item/grenade/clusterbuster,
+/turf/open/floor/circuit/red,
 /area/space)
 "F" = (
 /obj/machinery/power/apc{
@@ -54,21 +64,15 @@
 /obj/mecha/combat/durand,
 /turf/open/floor/mech_bay_recharge_floor,
 /area/space)
-"N" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-	},
-/obj/structure/cable{
-	icon_state = "0-8"
-	},
-/obj/machinery/mech_bay_recharge_port,
-/turf/open/floor/mineral/plastitanium/red,
-/area/space)
 "P" = (
 /turf/open/floor/mineral/plastitanium/red,
 /area/space)
-"X" = (
-/obj/structure/closet/secure_closet/gamma/energy,
+"Q" = (
+/obj/structure/closet/secure_closet/gamma/shotgun,
+/turf/open/floor/circuit/red,
+/area/space)
+"R" = (
+/obj/machinery/door/airlock/vault/gamma,
 /turf/open/floor/mineral/plastitanium/red,
 /area/space)
 
@@ -83,7 +87,7 @@ l
 "}
 (2,1,1) = {"
 l
-e
+Q
 P
 P
 P
@@ -92,36 +96,36 @@ l
 "}
 (3,1,1) = {"
 l
-s
+k
 P
-A
+h
 P
-N
+o
 l
 "}
 (4,1,1) = {"
 l
-X
+d
 P
-a
+w
 P
 G
 l
 "}
 (5,1,1) = {"
 l
-j
+a
 P
 P
 P
-x
+i
 l
 "}
 (6,1,1) = {"
 l
 l
 l
-l
+R
 n
 l
 l
