@@ -366,6 +366,17 @@
 	explosion_block = 2
 	normal_integrity = 400 // reverse engieneerd: 400 * 1.5 (sec lvl 6) = 600 = original
 	security_level = 6
+	
+/obj/machinery/door/airlock/vault/gamma
+	name = "gamma armory door"
+	icon = 'icons/obj/doors/airlocks/vault/vault.dmi'
+	overlays_file = 'icons/obj/doors/airlocks/vault/overlays.dmi'
+	anim_parts = "rightpins=15,0;leftpins=-17,0;rightu=13,0;left=-15,0;right=13,0"
+	assemblytype = /obj/structure/door_assembly/door_assembly_vault
+	explosion_block = 2
+	normal_integrity = 400 // reverse engieneerd: 400 * 1.5 (sec lvl 6) = 600 = original
+	security_level = 6
+	req_access = list(ACCESS_ARMORY)
 
 //////////////////////////////////
 /*
