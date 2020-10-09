@@ -1,13 +1,4 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"c" = (
-/obj/structure/table/reinforced,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/grenade/clusterbuster,
-/obj/item/grenade/chem_grenade/incendiary,
-/turf/open/floor/circuit/red,
-/area/space)
 "g" = (
 /obj/structure/closet/secure_closet/gamma/sniper,
 /turf/open/floor/circuit/red,
@@ -27,9 +18,14 @@
 /obj/structure/closet/secure_closet/gamma/pistol,
 /turf/open/floor/circuit/red,
 /area/space)
-"A" = (
-/obj/machinery/door/airlock/hatch/gamma,
-/turf/open/floor/mineral/plastitanium/red,
+"x" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/grenade/clusterbuster,
+/obj/item/grenade/chem_grenade/incendiary,
+/turf/open/floor/circuit/red,
 /area/space)
 "C" = (
 /obj/structure/cable{
@@ -53,6 +49,12 @@
 	},
 /obj/mecha/combat/durand,
 /turf/open/floor/mech_bay_recharge_floor,
+/area/space)
+"K" = (
+/obj/machinery/door/airlock/hatch/gamma{
+	use_power = 0
+	},
+/turf/open/floor/mineral/plastitanium/red,
 /area/space)
 "P" = (
 /turf/open/floor/mineral/plastitanium/red,
@@ -107,7 +109,7 @@ l
 l
 Z
 P
-c
+x
 P
 G
 l
@@ -125,7 +127,7 @@ l
 l
 l
 l
-A
+K
 n
 l
 l
