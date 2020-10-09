@@ -1,7 +1,12 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"d" = (
-/obj/machinery/door/airlock/hatch/gamma,
-/turf/open/floor/mineral/plastitanium/red,
+"c" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/grenade/clusterbuster,
+/obj/item/grenade/chem_grenade/incendiary,
+/turf/open/floor/circuit/red,
 /area/space)
 "g" = (
 /obj/structure/closet/secure_closet/gamma/sniper,
@@ -18,18 +23,13 @@
 /obj/structure/sign/warning/securearea,
 /turf/closed/wall/mineral/titanium,
 /area/space)
-"q" = (
-/obj/structure/table/reinforced,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/kitchen/knife/combat,
-/obj/item/grenade/flashbang,
-/obj/item/grenade/clusterbuster,
-/turf/open/floor/circuit/red,
-/area/space)
 "s" = (
 /obj/structure/closet/secure_closet/gamma/pistol,
 /turf/open/floor/circuit/red,
+/area/space)
+"A" = (
+/obj/machinery/door/airlock/hatch/gamma,
+/turf/open/floor/mineral/plastitanium/red,
 /area/space)
 "C" = (
 /obj/structure/cable{
@@ -107,7 +107,7 @@ l
 l
 Z
 P
-q
+c
 P
 G
 l
@@ -125,7 +125,7 @@ l
 l
 l
 l
-d
+A
 n
 l
 l
