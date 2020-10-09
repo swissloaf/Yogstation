@@ -1,4 +1,8 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"d" = (
+/obj/machinery/door/airlock/hatch/gamma,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
 "g" = (
 /obj/structure/closet/secure_closet/gamma/sniper,
 /turf/open/floor/circuit/red,
@@ -121,7 +125,7 @@ l
 l
 l
 l
-P
+d
 n
 l
 l
