@@ -317,7 +317,7 @@
 	
 /obj/structure/closet/secure_closet/gamma/energy/PopulateContents()
 	for(var/i in 1 to 3)
-		new /obj/item/gun/energy/e_gun/nuclear(src)
+		new /obj/item/gun/energy/e_gun(src)
 
 /obj/structure/closet/secure_closet/gamma/sniper
 	name = "gamma sniper locker"
