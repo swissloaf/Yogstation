@@ -1,6 +1,19 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"d" = (
+"a" = (
 /obj/structure/table/reinforced,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/kitchen/knife/combat,
+/obj/item/grenade/flashbang,
+/obj/item/grenade/clusterbuster,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"e" = (
+/obj/structure/closet/secure_closet/gamma/shotgun,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"j" = (
+/obj/structure/closet/secure_closet/gamma/sniper,
 /turf/open/floor/mineral/plastitanium/red,
 /area/space)
 "l" = (
@@ -10,6 +23,10 @@
 /obj/structure/sign/warning/securearea,
 /turf/closed/wall/mineral/titanium,
 /area/space)
+"s" = (
+/obj/structure/closet/secure_closet/gamma/pistol,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
 "x" = (
 /obj/structure/cable{
 	icon_state = "0-8"
@@ -17,11 +34,9 @@
 /obj/machinery/computer/mech_bay_power_console,
 /turf/open/floor/mineral/plastitanium/red,
 /area/space)
-"C" = (
-/obj/structure/cable{
-	icon_state = "4-8"
-	},
-/turf/open/floor/mech_bay_recharge_floor,
+"A" = (
+/obj/structure/closet/secure_closet/gamma/rocket,
+/turf/open/floor/mineral/plastitanium/red,
 /area/space)
 "F" = (
 /obj/machinery/power/apc{
@@ -31,6 +46,13 @@
 	icon_state = "0-4"
 	},
 /turf/open/floor/mineral/plastitanium/red,
+/area/space)
+"G" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/mecha/combat/durand,
+/turf/open/floor/mech_bay_recharge_floor,
 /area/space)
 "N" = (
 /obj/structure/cable{
@@ -45,6 +67,10 @@
 "P" = (
 /turf/open/floor/mineral/plastitanium/red,
 /area/space)
+"X" = (
+/obj/structure/closet/secure_closet/gamma/energy,
+/turf/open/floor/mineral/plastitanium/red,
+/area/space)
 
 (1,1,1) = {"
 l
@@ -57,7 +83,7 @@ l
 "}
 (2,1,1) = {"
 l
-P
+e
 P
 P
 P
@@ -66,25 +92,25 @@ l
 "}
 (3,1,1) = {"
 l
+s
 P
-P
-P
+A
 P
 N
 l
 "}
 (4,1,1) = {"
 l
+X
 P
+a
 P
-d
-P
-C
+G
 l
 "}
 (5,1,1) = {"
 l
-P
+j
 P
 P
 P
