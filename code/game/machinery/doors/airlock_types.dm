@@ -366,10 +366,7 @@
 	explosion_block = 2
 	normal_integrity = 400 // reverse engieneerd: 400 * 1.5 (sec lvl 6) = 600 = original
 	security_level = 6
-	
-/obj/machinery/door/airlock/vault/gamma
-	name = "gamma armory door"
-	req_access = list(ACCESS_ARMORY)
+
 
 //////////////////////////////////
 /*
@@ -386,7 +383,11 @@
 	anim_parts = "ul=-15,0,0,5,-90;ur=0,15,0,5,-90;dl=0,-15,0,5,-90;dr=15,0,0,5,-90"
 	note_attachment = "ul"
 	panel_attachment = "dr"
-
+	
+/obj/machinery/door/airlock/hatch/gamma
+	name = "gamma armory hatch"
+	req_access = list(ACCESS_ARMORY)
+	
 /obj/machinery/door/airlock/maintenance_hatch
 	name = "maintenance hatch"
 	icon = 'icons/obj/doors/airlocks/hatch/maintenance.dmi'
