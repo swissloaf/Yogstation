@@ -1,13 +1,13 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
-"d" = (
+"a" = (
 /obj/structure/cable{
-	icon_state = "4-8"
+	icon_state = "0-8"
 	},
-/obj/mecha/combat/durand{
-	internals_req_access = list(3);
-	operation_req_access = list(3)
+/obj/machinery/computer/mech_bay_power_console{
+	dir = 1;
+	use_power = 0
 	},
-/turf/open/floor/mech_bay_recharge_floor,
+/turf/open/floor/circuit/red,
 /area/space)
 "g" = (
 /obj/structure/closet/secure_closet/gamma/sniper,
@@ -28,14 +28,15 @@
 /obj/structure/closet/secure_closet/gamma/pistol,
 /turf/open/floor/circuit/red,
 /area/space)
-"C" = (
+"u" = (
 /obj/structure/cable{
-	icon_state = "0-8"
+	icon_state = "4-8"
 	},
-/obj/machinery/computer/mech_bay_power_console{
-	dir = 1
+/obj/mecha/combat/durand/loaded{
+	internals_req_access = list(3);
+	operation_req_access = list(3)
 	},
-/turf/open/floor/circuit/red,
+/turf/open/floor/mech_bay_recharge_floor,
 /area/space)
 "F" = (
 /obj/machinery/power/apc{
@@ -116,7 +117,7 @@ Z
 P
 O
 P
-d
+u
 l
 "}
 (5,1,1) = {"
@@ -125,7 +126,7 @@ g
 P
 P
 P
-C
+a
 l
 "}
 (6,1,1) = {"
