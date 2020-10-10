@@ -56,7 +56,7 @@
 
 		if(!msg)
 			if(mentor_datum)
-				to_chat((GLOB.admins - GLOB.deadmins) | GLOB.mentors, "<span class='purple'>[key_name_mentor(src)] has decided not to answer [key_name(C)]'s mentorhelp.</span>", confidential=TRUE)
+				to_chat((GLOB.admins - GLOB.deadmins) | GLOB.mentors, "<b><span class='purple'>[key_name_mentor(src)] has decided not to answer [key_name(C)]'s mentorhelp.</span></b>", confidential=TRUE)
 			return
 
 		// Neither party is a mentor, they shouldn't be PMing!
