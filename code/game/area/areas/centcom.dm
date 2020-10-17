@@ -12,23 +12,32 @@
 	flags_1 = NONE
 
 /area/centcom/control
-	name = "CentCom Docks"
+	name = "CentCom Control"
+	icon_state = "centcomcontrol"
 
 /area/centcom/evac
 	name = "CentCom Recovery Ship"
+	
+/area/centcom/main
+	name = "CentCom Docks"
+	icon_state = "centcommain"
 
 /area/centcom/supply
 	name = "CentCom Supply Shuttle Dock"
+	icon_state = "centcomcargo"
 
 /area/centcom/ferry
 	name = "CentCom Transport Shuttle Dock"
+	icon_state = "centcomferry"
 
 /area/centcom/testchamber
 	name = "CentCom Test Chamber"
+	icon_state = "centtest"
 
 
 /area/centcom/prison
 	name = "Admin Prison"
+	icon_state = "adminprison"
 
 /area/centcom/holding
 	name = "Holding Facility"
