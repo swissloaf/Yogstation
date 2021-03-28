@@ -667,10 +667,6 @@
 "cs" = (
 /turf/closed/wall,
 /area/ruin/space/derelict/bridge/access)
-"ct" = (
-/obj/effect/custom_portal/b,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "cu" = (
 /turf/open/floor/plasteel/airless{
 	icon_state = "damaged4"
@@ -3825,12 +3821,6 @@
 	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/bridge)
-"oH" = (
-/obj/effect/turf_decal/arrows{
-	dir = 1
-	},
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "oI" = (
 /obj/item/beacon,
 /turf/open/floor/plasteel/airless,
@@ -3855,6 +3845,12 @@
 	icon_state = "floorscorched2"
 	},
 /area/ruin/unpowered/no_grav)
+"pk" = (
+/obj/effect/turf_decal/arrows{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "pu" = (
 /obj/structure/table/reinforced/brass,
 /obj/machinery/cell_charger,
@@ -3920,9 +3916,6 @@
 	},
 /turf/template_noop,
 /area/space/nearstation)
-"qX" = (
-/turf/open/floor/plasteel/dark,
-/area/ruin/space/derelict/arrival)
 "qY" = (
 /obj/structure/lattice/catwalk,
 /turf/template_noop,
@@ -4025,6 +4018,10 @@
 "ti" = (
 /obj/structure/lattice,
 /turf/closed/wall,
+/area/ruin/space/derelict/arrival)
+"tl" = (
+/obj/effect/custom_portal/b,
+/turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
 "tn" = (
 /obj/structure/grille,
@@ -5268,6 +5265,9 @@
 "Tm" = (
 /turf/open/floor/plating/airless,
 /area/ruin/space/derelict/hallway/primary/port)
+"Tu" = (
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/arrival)
 "TD" = (
 /obj/structure/door_assembly/door_assembly_mai{
 	name = "airlock assembly"
@@ -13683,15 +13683,15 @@ ab
 ab
 ti
 hf
-qX
-qX
-qX
+Tu
+Tu
+Tu
 hf
-qX
+Tu
 hf
-qX
-qX
-qX
+Tu
+Tu
+Tu
 hf
 gW
 aa
@@ -13796,16 +13796,16 @@ gW
 gW
 gW
 kV
-qX
+Tu
 hf
-qX
-qX
-qX
+Tu
+Tu
+Tu
 hf
 hf
 hf
-qX
-ct
+Tu
+tl
 gW
 aa
 aa
@@ -13908,7 +13908,7 @@ xo
 xo
 xo
 Az
-oH
+pk
 hf
 hf
 hf
@@ -14021,16 +14021,16 @@ ML
 ML
 ML
 Kg
-oH
+pk
 hf
 hf
 hf
 hf
-qX
+Tu
 hf
-qX
-qX
-qX
+Tu
+Tu
+Tu
 hf
 gW
 aa
@@ -14141,10 +14141,10 @@ hf
 hf
 hf
 hf
-qX
+Tu
 hf
-qX
-ct
+Tu
+tl
 gW
 aa
 aa
@@ -14254,9 +14254,9 @@ hf
 hf
 hf
 hf
-qX
-qX
-qX
+Tu
+Tu
+Tu
 hf
 gW
 aa
@@ -14479,11 +14479,11 @@ hf
 hf
 hf
 hf
-qX
-qX
-qX
-qX
-ct
+Tu
+Tu
+Tu
+Tu
+tl
 gW
 aa
 aa
@@ -14586,15 +14586,15 @@ hf
 hf
 hf
 Az
-oH
+pk
 hf
 hf
 hf
 hf
 hf
-qX
+Tu
 hf
-qX
+Tu
 hf
 hf
 gW
@@ -14699,15 +14699,15 @@ hf
 hf
 hf
 Kg
-oH
+pk
 hf
 hf
 hf
 hf
 hf
-qX
+Tu
 hf
-qX
+Tu
 hf
 hf
 gW
@@ -14814,13 +14814,13 @@ gW
 gW
 hf
 hf
-ct
+tl
 hf
 jI
-ct
+tl
 hf
 hf
-ct
+tl
 hf
 hf
 gW
