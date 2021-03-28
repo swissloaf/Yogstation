@@ -667,6 +667,10 @@
 "cs" = (
 /turf/closed/wall,
 /area/ruin/space/derelict/bridge/access)
+"ct" = (
+/obj/effect/custom_portal/b,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "cu" = (
 /turf/open/floor/plasteel/airless{
 	icon_state = "damaged4"
@@ -3821,6 +3825,12 @@
 	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/bridge)
+"oH" = (
+/obj/effect/turf_decal/arrows{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "oI" = (
 /obj/item/beacon,
 /turf/open/floor/plasteel/airless,
@@ -3910,6 +3920,9 @@
 	},
 /turf/template_noop,
 /area/space/nearstation)
+"qX" = (
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/arrival)
 "qY" = (
 /obj/structure/lattice/catwalk,
 /turf/template_noop,
@@ -4046,10 +4059,6 @@
 	dir = 1
 	},
 /area/ruin/space/derelict/medical/chapel)
-"tR" = (
-/obj/machinery/computer/teleporter,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "tS" = (
 /turf/template_noop,
 /area/ruin/unpowered/no_grav)
@@ -4402,10 +4411,6 @@
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/hallway/secondary)
-"AW" = (
-/obj/machinery/teleport/hub,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "Bl" = (
 /obj/machinery/door/firedoor,
 /obj/structure/cable{
@@ -4579,10 +4584,6 @@
 	},
 /turf/template_noop,
 /area/solar/derelict_aft)
-"Ee" = (
-/obj/machinery/teleport/station,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "Eq" = (
 /obj/structure/cable{
 	icon_state = "2-8"
@@ -4751,12 +4752,6 @@
 	icon_state = "damaged2"
 	},
 /area/ruin/space/derelict/hallway/primary)
-"IY" = (
-/obj/machinery/computer/teleporter{
-	dir = 8
-	},
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "Jp" = (
 /obj/structure/lattice/catwalk,
 /obj/structure/cable{
@@ -5036,12 +5031,6 @@
 	},
 /turf/closed/wall/r_wall,
 /area/ruin/unpowered/no_grav)
-"Oi" = (
-/obj/item/beacon{
-	interaction_flags_item = 0
-	},
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "Oj" = (
 /turf/closed/wall/r_wall,
 /area/ruin/space/derelict/bridge/access)
@@ -13590,7 +13579,7 @@ hf
 Ym
 hf
 hf
-tR
+hf
 gW
 aa
 aa
@@ -13694,16 +13683,16 @@ ab
 ab
 ti
 hf
+qX
+qX
+qX
 hf
+qX
 hf
+qX
+qX
+qX
 hf
-hf
-hf
-hf
-hf
-hf
-hf
-Ee
 gW
 aa
 aa
@@ -13807,16 +13796,16 @@ gW
 gW
 gW
 kV
+qX
 hf
-Oi
-hf
-hf
-hf
-hf
-Oi
+qX
+qX
+qX
 hf
 hf
-AW
+hf
+qX
+ct
 gW
 aa
 aa
@@ -13919,7 +13908,7 @@ xo
 xo
 xo
 Az
-hf
+oH
 hf
 hf
 hf
@@ -14032,17 +14021,17 @@ ML
 ML
 ML
 Kg
+oH
 hf
 hf
 hf
 hf
+qX
 hf
+qX
+qX
+qX
 hf
-hf
-hf
-hf
-hf
-tR
 gW
 aa
 aa
@@ -14152,10 +14141,10 @@ hf
 hf
 hf
 hf
+qX
 hf
-hf
-hf
-Ee
+qX
+ct
 gW
 aa
 aa
@@ -14265,10 +14254,10 @@ hf
 hf
 hf
 hf
+qX
+qX
+qX
 hf
-hf
-hf
-AW
 gW
 aa
 aa
@@ -14373,12 +14362,12 @@ vv
 gW
 hf
 hf
-Oi
 hf
 hf
 hf
 hf
-Oi
+hf
+hf
 hf
 hf
 zW
@@ -14490,11 +14479,11 @@ hf
 hf
 hf
 hf
-hf
-hf
-hf
-hf
-tR
+qX
+qX
+qX
+qX
+ct
 gW
 aa
 aa
@@ -14597,17 +14586,17 @@ hf
 hf
 hf
 Az
+oH
 hf
 hf
 hf
 hf
 hf
+qX
+hf
+qX
 hf
 hf
-hf
-hf
-hf
-Ee
 gW
 aa
 aa
@@ -14710,17 +14699,17 @@ hf
 hf
 hf
 Kg
+oH
 hf
 hf
 hf
 hf
 hf
+qX
+hf
+qX
 hf
 hf
-hf
-hf
-hf
-AW
 gW
 aa
 aa
@@ -14824,14 +14813,14 @@ gW
 gW
 gW
 hf
-IY
-Ee
-AW
-jI
-IY
-Ee
-AW
 hf
+ct
+hf
+jI
+ct
+hf
+hf
+ct
 hf
 hf
 gW
