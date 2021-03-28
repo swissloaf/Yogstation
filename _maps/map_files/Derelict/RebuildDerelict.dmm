@@ -199,7 +199,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc{
 	name = "Worn-out APC";
-	pixel_y = -24
+	pixel_y = -23
 	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/bridge/access)
@@ -492,7 +492,7 @@
 /obj/structure/table,
 /obj/machinery/power/apc{
 	name = "Worn-out APC";
-	pixel_y = -24
+	pixel_y = -23
 	},
 /obj/structure/cable,
 /obj/effect/spawner/lootdrop/maintenance,
@@ -544,7 +544,7 @@
 /obj/machinery/power/apc{
 	dir = 8;
 	name = "Worn-out APC";
-	pixel_x = -24
+	pixel_x = -25
 	},
 /obj/structure/cable{
 	icon_state = "0-4"
@@ -763,7 +763,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc{
 	name = "Worn-out APC";
-	pixel_y = -24
+	pixel_y = -23
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/bridge/access)
@@ -794,7 +794,7 @@
 "cQ" = (
 /obj/machinery/power/apc{
 	name = "Worn-out APC";
-	pixel_y = -24
+	pixel_y = -23
 	},
 /obj/structure/cable,
 /turf/open/floor/plasteel/airless/white,
@@ -1221,7 +1221,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc{
 	name = "Worn-out APC";
-	pixel_y = -24
+	pixel_y = -23
 	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
@@ -1229,7 +1229,7 @@
 /obj/structure/cable,
 /obj/machinery/power/apc{
 	name = "Worn-out APC";
-	pixel_y = -24
+	pixel_y = -23
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/hallway/primary)
@@ -1669,6 +1669,12 @@
 	icon_state = "damaged4"
 	},
 /area/ruin/space/derelict/singularity_engine)
+"fR" = (
+/obj/machinery/computer/teleporter{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "fS" = (
 /obj/effect/spawner/structure/window/hollow/reinforced/middle,
 /turf/open/floor/plating/airless,
@@ -2758,14 +2764,6 @@
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/hallway/primary)
-"kt" = (
-/obj/structure/table/reinforced/brass,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "ku" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -3354,7 +3352,7 @@
 /obj/machinery/power/apc{
 	dir = 8;
 	name = "Worn-out APC";
-	pixel_x = -24
+	pixel_x = -25
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/hallway/secondary)
@@ -3378,7 +3376,7 @@
 	areastring = "/area/ruin/space/derelict/atmospherics";
 	dir = 1;
 	name = "Worn-out APC";
-	pixel_y = 24
+	pixel_y = 23
 	},
 /obj/structure/cable{
 	icon_state = "0-4"
@@ -3680,7 +3678,7 @@
 	equipment = 0;
 	lighting = 0;
 	name = "Worn-out APC";
-	pixel_x = -24
+	pixel_x = -25
 	},
 /turf/open/floor/plating/airless,
 /area/ruin/space/derelict/se_solar)
@@ -3867,6 +3865,10 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/bridge/ai_upload)
+"py" = (
+/obj/structure/lattice,
+/turf/closed/wall,
+/area/ruin/space/derelict/arrival)
 "pH" = (
 /obj/structure/closet/wardrobe/genetics_white,
 /obj/effect/spawner/lootdrop/maintenance{
@@ -3923,17 +3925,6 @@
 /obj/structure/lattice/catwalk,
 /turf/template_noop,
 /area/template_noop)
-"qZ" = (
-/obj/machinery/light/small{
-	dir = 4
-	},
-/obj/structure/table/reinforced/brass,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "rb" = (
 /obj/machinery/door/airlock/maintenance{
 	name = "Tech Storage";
@@ -3949,6 +3940,20 @@
 /turf/open/floor/plasteel/airless{
 	icon_state = "floorscorched2"
 	},
+/area/ruin/space/derelict/arrival)
+"rq" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/structure/table/reinforced/brass,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
 "rr" = (
 /obj/machinery/autolathe,
@@ -3967,14 +3972,6 @@
 "rK" = (
 /turf/template_noop,
 /area/ruin/space/derelict/medical)
-"rN" = (
-/obj/machinery/door/window{
-	dir = 2;
-	name = "Medical Storage";
-	req_access_txt = "20"
-	},
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "rO" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -4037,6 +4034,13 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/derelict/medical/chapel)
+"th" = (
+/obj/structure/fans/tiny,
+/obj/machinery/door/airlock/glass_large{
+	name = "Storage"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "tn" = (
 /obj/structure/grille,
 /turf/template_noop,
@@ -4284,10 +4288,6 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/se_solar)
-"xx" = (
-/obj/item/beacon,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "xB" = (
 /obj/machinery/door/airlock/command{
 	name = "Teleporter Room"
@@ -4409,6 +4409,10 @@
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/hallway/secondary)
+"AM" = (
+/obj/structure/table/reinforced/brass,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "AW" = (
 /obj/machinery/teleport/hub,
 /turf/open/floor/plasteel,
@@ -4472,10 +4476,6 @@
 /obj/item/wallframe/firealarm,
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
-"BY" = (
-/obj/item/beacon,
-/turf/open/floor/plasteel/chapel,
-/area/ruin/space/derelict/medical/chapel)
 "Cd" = (
 /obj/machinery/camera{
 	c_tag = "Cargo Bay Entrance";
@@ -4723,6 +4723,17 @@
 	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
+"HZ" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "Ih" = (
 /turf/open/floor/plasteel/airless{
 	icon_state = "damaged3"
@@ -4784,11 +4795,23 @@
 	icon_state = "damaged3"
 	},
 /area/ruin/space/derelict/hallway/primary)
+"JF" = (
+/obj/item/beacon{
+	interaction_flags_item = 0
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "JG" = (
 /obj/machinery/light/small{
 	dir = 1
 	},
 /obj/structure/closet/wardrobe,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"JI" = (
+/obj/machinery/light{
+	dir = 8
+	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
 "JM" = (
@@ -5226,14 +5249,6 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/atmospherics)
-"Si" = (
-/obj/machinery/door/window{
-	dir = 2;
-	name = "Overflow Storage";
-	req_access_txt = "20"
-	},
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "Sl" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -5245,6 +5260,17 @@
 "Sv" = (
 /turf/closed/wall/r_wall,
 /area/space/nearstation)
+"SS" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "Tm" = (
 /turf/open/floor/plating/airless,
 /area/ruin/space/derelict/hallway/primary/port)
@@ -5337,7 +5363,7 @@
 	equipment = 0;
 	lighting = 0;
 	name = "Starboard Solar APC";
-	pixel_x = -24
+	pixel_x = -25
 	},
 /obj/structure/cable,
 /obj/structure/cable{
@@ -5382,6 +5408,10 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plating/airless,
 /area/ruin/space/derelict/atmospherics)
+"WY" = (
+/obj/machinery/light,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "Xj" = (
 /obj/machinery/camera{
 	c_tag = "Cargo Bay Entrance";
@@ -6374,7 +6404,7 @@ gX
 hS
 ij
 hS
-BY
+ij
 iX
 ij
 hS
@@ -13406,19 +13436,19 @@ aa
 aa
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
 aa
 aa
 aa
@@ -13519,19 +13549,19 @@ ab
 ab
 aa
 aa
-aa
-aa
-aa
-aa
-aa
-mv
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+gW
+hf
+hf
+JI
+hf
+hf
+hf
+hf
+JI
+hf
+hf
+tR
+gW
 aa
 aa
 aa
@@ -13632,19 +13662,19 @@ ab
 ab
 ab
 ab
-ab
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+py
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+Ee
+gW
 aa
 aa
 aa
@@ -13746,18 +13776,18 @@ gW
 gW
 gW
 gW
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+kV
+hf
+JF
+hf
+hf
+hf
+hf
+JF
+hf
+hf
+AW
+gW
 aa
 aa
 aa
@@ -13853,24 +13883,24 @@ hf
 hf
 hf
 UL
-rN
+hf
 xo
 xo
 xo
 xo
+th
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+WY
 gW
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
 aa
 aa
 aa
@@ -13966,24 +13996,24 @@ hf
 hf
 hf
 hf
-rN
+hf
 ML
 ML
 ML
 ML
+Kg
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+tR
 gW
-aa
-aa
-ab
-ab
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
 aa
 aa
 aa
@@ -14085,18 +14115,18 @@ bh
 bh
 bh
 gW
-ab
-ab
-aa
-ab
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+Ee
+gW
 aa
 aa
 aa
@@ -14184,7 +14214,7 @@ ki
 hf
 hf
 hf
-tR
+AM
 gW
 KX
 KX
@@ -14198,18 +14228,18 @@ uk
 uk
 uk
 gW
-ab
-ab
-ab
-ab
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+AW
+gW
 aa
 aa
 aa
@@ -14279,10 +14309,10 @@ aY
 gV
 ys
 hf
-kt
+SS
 hf
 hf
-kt
+SS
 hf
 hf
 BA
@@ -14295,9 +14325,9 @@ su
 gW
 Ch
 hf
-xx
 hf
-Ee
+hf
+AM
 gW
 zB
 LH
@@ -14311,18 +14341,18 @@ MG
 MG
 vv
 gW
-ab
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+hf
+hf
+JF
+hf
+hf
+hf
+hf
+JF
+hf
+hf
+WY
+gW
 aa
 aa
 aa
@@ -14392,10 +14422,10 @@ ch
 gW
 ys
 hf
-kt
+SS
 hf
 hf
-kt
+SS
 hf
 hf
 Wf
@@ -14410,7 +14440,7 @@ kV
 hf
 hf
 hf
-AW
+HZ
 gW
 Bz
 Bz
@@ -14424,18 +14454,18 @@ MM
 MM
 MM
 gW
-ab
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+kV
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+tR
+gW
 aa
 aa
 aa
@@ -14505,10 +14535,10 @@ gQ
 gW
 ys
 hf
-kt
-kt
-qZ
-kt
+SS
+SS
+rq
+SS
 hf
 hf
 CI
@@ -14531,24 +14561,24 @@ Bz
 Bz
 Am
 hf
-Si
 hf
 hf
 hf
 hf
+hf
+th
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+Ee
 gW
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
 aa
 aa
 aa
@@ -14644,24 +14674,24 @@ Bz
 Bz
 Am
 Ff
-Si
 hf
 hf
 hf
 hf
+hf
+Kg
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+AW
 gW
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
 aa
 aa
 aa
@@ -14763,18 +14793,18 @@ gW
 gW
 gW
 gW
-ab
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+hf
+fR
+Ee
+AW
+jI
+fR
+Ee
+AW
+hf
+hf
+hf
+gW
 aa
 aa
 aa
@@ -14875,19 +14905,19 @@ aa
 aa
 aa
 aa
-ab
-ab
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+py
+py
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
 aa
 aa
 aa
