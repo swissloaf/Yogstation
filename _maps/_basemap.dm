@@ -11,6 +11,7 @@
 		#include "map_files\YogStation\Yogstation.dmm"
 		#include "map_files\YogsMeta\YogsMeta.dmm"
 		#include "map_files\YogsDelta\YogsDelta.dmm"
+		#include "map_files\RebuildStation\RebuildStation.dmm"
 		#include "map_files\EclipseStation\EclipseStation.dmm"
 		#include "map_files\IceBox\IceBox.dmm"
 		#ifdef TRAVISBUILDING
