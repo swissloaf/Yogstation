@@ -1669,12 +1669,6 @@
 	icon_state = "damaged4"
 	},
 /area/ruin/space/derelict/singularity_engine)
-"fR" = (
-/obj/machinery/computer/teleporter{
-	dir = 8
-	},
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "fS" = (
 /obj/effect/spawner/structure/window/hollow/reinforced/middle,
 /turf/open/floor/plating/airless,
@@ -2283,6 +2277,20 @@
 	},
 /turf/template_noop,
 /area/space/nearstation)
+"iv" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/structure/table/reinforced/brass,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "iw" = (
 /obj/structure/window/reinforced,
 /turf/open/floor/plasteel/chapel{
@@ -3865,10 +3873,6 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/bridge/ai_upload)
-"py" = (
-/obj/structure/lattice,
-/turf/closed/wall,
-/area/ruin/space/derelict/arrival)
 "pH" = (
 /obj/structure/closet/wardrobe/genetics_white,
 /obj/effect/spawner/lootdrop/maintenance{
@@ -3941,18 +3945,8 @@
 	icon_state = "floorscorched2"
 	},
 /area/ruin/space/derelict/arrival)
-"rq" = (
-/obj/machinery/light/small{
-	dir = 4
-	},
+"ro" = (
 /obj/structure/table/reinforced/brass,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
 "rr" = (
@@ -4034,13 +4028,6 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/derelict/medical/chapel)
-"th" = (
-/obj/structure/fans/tiny,
-/obj/machinery/door/airlock/glass_large{
-	name = "Storage"
-	},
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "tn" = (
 /obj/structure/grille,
 /turf/template_noop,
@@ -4126,6 +4113,13 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plasteel/airless/white,
 /area/ruin/space/derelict/medical)
+"uI" = (
+/obj/structure/fans/tiny,
+/obj/machinery/door/airlock/glass_large{
+	name = "Storage"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "uO" = (
 /obj/machinery/door/window{
 	dir = 1;
@@ -4409,10 +4403,6 @@
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/hallway/secondary)
-"AM" = (
-/obj/structure/table/reinforced/brass,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "AW" = (
 /obj/machinery/teleport/hub,
 /turf/open/floor/plasteel,
@@ -4531,6 +4521,16 @@
 	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
+"Dj" = (
+/obj/item/beacon{
+	interaction_flags_item = 0
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Do" = (
+/obj/structure/lattice,
+/turf/closed/wall,
+/area/ruin/space/derelict/arrival)
 "Ds" = (
 /obj/machinery/light{
 	dir = 8
@@ -4571,6 +4571,17 @@
 	},
 /turf/open/floor/plasteel/airless,
 /area/ruin/space/derelict/se_solar)
+"DT" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "DX" = (
 /obj/item/stack/cable_coil/cut/red{
 	amount = 2
@@ -4723,17 +4734,6 @@
 	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
-"HZ" = (
-/obj/structure/table/reinforced/brass,
-/obj/item/holosign_creator/atmos,
-/obj/item/holosign_creator/atmos,
-/obj/item/holosign_creator/atmos,
-/obj/item/holosign_creator/atmos,
-/obj/item/holosign_creator/atmos,
-/obj/item/holosign_creator/atmos,
-/obj/item/holosign_creator/atmos,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "Ih" = (
 /turf/open/floor/plasteel/airless{
 	icon_state = "damaged3"
@@ -4795,23 +4795,11 @@
 	icon_state = "damaged3"
 	},
 /area/ruin/space/derelict/hallway/primary)
-"JF" = (
-/obj/item/beacon{
-	interaction_flags_item = 0
-	},
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "JG" = (
 /obj/machinery/light/small{
 	dir = 1
 	},
 /obj/structure/closet/wardrobe,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
-"JI" = (
-/obj/machinery/light{
-	dir = 8
-	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
 "JM" = (
@@ -4894,6 +4882,17 @@
 "Lv" = (
 /turf/closed/wall,
 /area/space/nearstation)
+"LC" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/obj/item/holosign_creator/atmos,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "LH" = (
 /obj/structure/window/reinforced{
 	dir = 8
@@ -5116,6 +5115,12 @@
 /obj/machinery/space_heater,
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
+"PO" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "PV" = (
 /obj/machinery/portable_atmospherics/scrubber,
 /obj/structure/cable{
@@ -5260,15 +5265,10 @@
 "Sv" = (
 /turf/closed/wall/r_wall,
 /area/space/nearstation)
-"SS" = (
-/obj/structure/table/reinforced/brass,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
-/obj/item/clothing/suit/space/hardsuit,
+"Tc" = (
+/obj/machinery/computer/teleporter{
+	dir = 8
+	},
 /turf/open/floor/plasteel,
 /area/ruin/space/derelict/arrival)
 "Tm" = (
@@ -5348,6 +5348,10 @@
 	dir = 8
 	},
 /area/ruin/space/derelict/medical/chapel)
+"VT" = (
+/obj/machinery/light,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
 "VX" = (
 /obj/structure/cable{
 	icon_state = "1-4"
@@ -5408,10 +5412,6 @@
 /obj/structure/fans/tiny,
 /turf/open/floor/plating/airless,
 /area/ruin/space/derelict/atmospherics)
-"WY" = (
-/obj/machinery/light,
-/turf/open/floor/plasteel,
-/area/ruin/space/derelict/arrival)
 "Xj" = (
 /obj/machinery/camera{
 	c_tag = "Cargo Bay Entrance";
@@ -13552,12 +13552,12 @@ aa
 gW
 hf
 hf
-JI
+PO
+hf
+Dh
 hf
 hf
-hf
-hf
-JI
+PO
 hf
 hf
 tR
@@ -13662,7 +13662,7 @@ ab
 ab
 ab
 ab
-py
+Do
 hf
 hf
 hf
@@ -13778,12 +13778,12 @@ gW
 gW
 kV
 hf
-JF
+Dj
 hf
 hf
 hf
 hf
-JF
+Dj
 hf
 hf
 AW
@@ -13888,7 +13888,7 @@ xo
 xo
 xo
 xo
-th
+uI
 hf
 hf
 hf
@@ -13899,7 +13899,7 @@ hf
 hf
 hf
 hf
-WY
+VT
 gW
 aa
 aa
@@ -14214,7 +14214,7 @@ ki
 hf
 hf
 hf
-AM
+ro
 gW
 KX
 KX
@@ -14309,10 +14309,10 @@ aY
 gV
 ys
 hf
-SS
+DT
 hf
 hf
-SS
+DT
 hf
 hf
 BA
@@ -14327,7 +14327,7 @@ Ch
 hf
 hf
 hf
-AM
+ro
 gW
 zB
 LH
@@ -14343,15 +14343,15 @@ vv
 gW
 hf
 hf
-JF
+Dj
 hf
 hf
 hf
 hf
-JF
+Dj
 hf
 hf
-WY
+VT
 gW
 aa
 aa
@@ -14422,10 +14422,10 @@ ch
 gW
 ys
 hf
-SS
+DT
 hf
 hf
-SS
+DT
 hf
 hf
 Wf
@@ -14440,7 +14440,7 @@ kV
 hf
 hf
 hf
-HZ
+LC
 gW
 Bz
 Bz
@@ -14535,10 +14535,10 @@ gQ
 gW
 ys
 hf
-SS
-SS
-rq
-SS
+DT
+DT
+iv
+DT
 hf
 hf
 CI
@@ -14566,7 +14566,7 @@ hf
 hf
 hf
 hf
-th
+uI
 hf
 hf
 hf
@@ -14794,11 +14794,11 @@ gW
 gW
 gW
 hf
-fR
+Tc
 Ee
 AW
 jI
-fR
+Tc
 Ee
 AW
 hf
@@ -14905,8 +14905,8 @@ aa
 aa
 aa
 aa
-py
-py
+Do
+Do
 gW
 gW
 gW
