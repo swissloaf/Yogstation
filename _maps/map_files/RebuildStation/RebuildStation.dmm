@@ -1,0 +1,14902 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aa" = (
+/turf/template_noop,
+/area/template_noop)
+"ab" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/template_noop)
+"ac" = (
+/obj/structure/grille,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"ad" = (
+/obj/machinery/power/tracker,
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/solar/derelict_starboard)
+"ae" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"af" = (
+/turf/open/floor/plating/airless{
+	icon_state = "platingdmg2"
+	},
+/area/solar/derelict_starboard)
+"ag" = (
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/solar/derelict_starboard)
+"ah" = (
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/solar/derelict_starboard)
+"ai" = (
+/obj/structure/lattice/catwalk,
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"aj" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"ak" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"al" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"am" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"an" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"ao" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"ap" = (
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/structure/cable,
+/turf/open/floor/plasteel/airless,
+/area/solar/derelict_starboard)
+"aq" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable,
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"ar" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/template_noop,
+/area/solar/derelict_starboard)
+"as" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/solar_control)
+"at" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/solar_control)
+"av" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/solar_control)
+"aw" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/solar_control)
+"ax" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/bridge/ai_upload)
+"ay" = (
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"az" = (
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aA" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aB" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aC" = (
+/obj/machinery/power/smes,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aD" = (
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/solar_control{
+	id = "derelictsolar";
+	name = "Primary Solar Control";
+	track = 0
+	},
+/obj/structure/cable,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aE" = (
+/obj/structure/cable,
+/obj/machinery/power/apc{
+	name = "Worn-out APC";
+	pixel_y = -24
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"aF" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end{
+	dir = 1
+	},
+/obj/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/solar_control)
+"aG" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aH" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aI" = (
+/obj/machinery/power/terminal{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aJ" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aK" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"aL" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"aN" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aO" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aP" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aQ" = (
+/obj/machinery/door/window,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aR" = (
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"aS" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/solar_control)
+"aU" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"aX" = (
+/obj/structure/frame/computer,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"aY" = (
+/turf/closed/wall/r_wall,
+/area/ruin/unpowered/no_grav)
+"aZ" = (
+/obj/machinery/computer/monitor/secret{
+	dir = 4
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"ba" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/light/small,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"bb" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"bc" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/solar_control)
+"bd" = (
+/obj/structure/grille/broken,
+/turf/open/floor/plating/airless,
+/area/space/nearstation)
+"be" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bf" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/machinery/porta_turret_cover,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bg" = (
+/obj/machinery/porta_turret_cover,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bh" = (
+/obj/effect/turf_decal/tile/purple{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/purple{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"bi" = (
+/obj/structure/grille,
+/turf/template_noop,
+/area/ruin/unpowered/no_grav)
+"bj" = (
+/obj/structure/grille,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bk" = (
+/obj/structure/closet,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"bl" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bn" = (
+/obj/machinery/computer/atmos_alert,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bo" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bp" = (
+/obj/machinery/door/window{
+	base_state = "right";
+	dir = 4;
+	icon_state = "right"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bq" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"bs" = (
+/turf/open/floor/plasteel{
+	icon_state = "damaged1"
+	},
+/area/ruin/space/derelict/solar_control)
+"bt" = (
+/obj/machinery/door/window,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bv" = (
+/obj/item/stock_parts/matter_bin,
+/turf/open/floor/plasteel{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/solar_control)
+"bw" = (
+/obj/structure/rack,
+/obj/item/circuitboard/machine/smes,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bx" = (
+/obj/structure/rack,
+/obj/item/circuitboard/machine/microwave,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"by" = (
+/obj/structure/rack,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bz" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bA" = (
+/obj/structure/closet,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 3;
+	name = "3maintenance loot spawner"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"bC" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/turf/open/floor/plasteel{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/solar_control)
+"bD" = (
+/obj/structure/rack,
+/obj/item/circuitboard/machine/cryo_tube,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bE" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/bridge/ai_upload)
+"bF" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/bridge/ai_upload)
+"bG" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bH" = (
+/obj/structure/closet,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 2;
+	name = "2maintenance loot spawner"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"bI" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bK" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/bridge/ai_upload)
+"bL" = (
+/turf/template_noop,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bM" = (
+/obj/item/stack/sheet/glass,
+/turf/template_noop,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bN" = (
+/obj/structure/table,
+/obj/machinery/power/apc{
+	name = "Worn-out APC";
+	pixel_y = -24
+	},
+/obj/structure/cable,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"bO" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bP" = (
+/obj/machinery/porta_turret_cover,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bQ" = (
+/obj/item/aicard,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/bridge/ai_upload)
+"bR" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bS" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"bT" = (
+/obj/structure/rack,
+/obj/item/circuitboard/computer/solar_control,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bU" = (
+/obj/structure/rack,
+/obj/item/circuitboard/machine/autolathe,
+/obj/item/circuitboard/machine/protolathe{
+	pixel_x = -5;
+	pixel_y = -3
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bV" = (
+/obj/structure/rack,
+/obj/item/circuitboard/machine/circuit_imprinter,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bW" = (
+/obj/machinery/power/apc{
+	dir = 8;
+	name = "Worn-out APC";
+	pixel_x = -24
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bX" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bY" = (
+/obj/structure/frame/computer{
+	dir = 1
+	},
+/obj/item/circuitboard/computer/rdconsole,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"bZ" = (
+/obj/structure/frame/computer{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"ca" = (
+/obj/machinery/door/airlock/external,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"cb" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/space/nearstation)
+"cc" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"cd" = (
+/obj/machinery/light,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"ce" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/bridge/ai_upload)
+"cf" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/bridge/ai_upload)
+"cg" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/bridge/ai_upload)
+"ch" = (
+/turf/closed/wall,
+/area/ruin/unpowered/no_grav)
+"ci" = (
+/turf/closed/wall/r_wall,
+/area/template_noop)
+"cj" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/bridge/ai_upload)
+"ck" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"cl" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/gravity_generator)
+"cm" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"cn" = (
+/obj/item/stack/ore/iron,
+/obj/item/stack/ore/iron,
+/obj/item/stack/ore/iron,
+/turf/template_noop,
+/area/template_noop)
+"co" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/gravity_generator)
+"cp" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/gravity_generator)
+"cq" = (
+/obj/item/stock_parts/manipulator,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/gravity_generator)
+"cr" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/closed/wall,
+/area/ruin/space/derelict/bridge/access)
+"cs" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/bridge/access)
+"cu" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/gravity_generator)
+"cv" = (
+/obj/item/stack/ore/slag,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/gravity_generator)
+"cw" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/gravity_generator)
+"cx" = (
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cy" = (
+/obj/structure/rack,
+/obj/item/melee/classic_baton,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cz" = (
+/obj/structure/rack,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cA" = (
+/obj/structure/rack,
+/obj/item/clothing/head/helmet/swat,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cB" = (
+/obj/structure/rack,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cC" = (
+/obj/structure/rack,
+/obj/item/electronics/apc,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cD" = (
+/obj/structure/rack,
+/obj/item/circuitboard/machine/smes,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cE" = (
+/obj/structure/rack,
+/obj/item/stock_parts/capacitor,
+/obj/item/stock_parts/manipulator,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cF" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cG" = (
+/obj/item/screwdriver,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/gravity_generator)
+"cH" = (
+/obj/machinery/gravity_generator/main/station{
+	on = 0
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/gravity_generator)
+"cI" = (
+/obj/item/stack/ore/slag,
+/turf/template_noop,
+/area/template_noop)
+"cJ" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/closed/wall,
+/area/ruin/space/derelict/bridge/access)
+"cK" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cL" = (
+/obj/structure/cable,
+/obj/machinery/power/apc{
+	name = "Worn-out APC";
+	pixel_y = -24
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"cM" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cN" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cO" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/gravity_generator)
+"cP" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/gravity_generator)
+"cQ" = (
+/obj/machinery/power/apc{
+	name = "Worn-out APC";
+	pixel_y = -24
+	},
+/obj/structure/cable,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"cR" = (
+/obj/structure/rack,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"cS" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/structure/rack,
+/obj/item/stack/cable_coil/cut/red,
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"cT" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"cU" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"cV" = (
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/turf/open/floor/plating/airless{
+	icon_state = "platingdmg3"
+	},
+/area/solar/derelict_aft)
+"cY" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 10
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"cZ" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"db" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"dc" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 5
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"de" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless/solarpanel,
+/area/space/nearstation)
+"df" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/item/wallframe/apc,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"dg" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"dh" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"di" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/structure/frame/machine,
+/obj/item/stack/sheet/glass,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"dj" = (
+/turf/open/floor/plasteel/airless/solarpanel,
+/area/space/nearstation)
+"dk" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/template_noop,
+/area/template_noop)
+"dl" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"dm" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"dn" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"dq" = (
+/obj/item/reagent_containers/food/drinks/beer,
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"dr" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/singularity_engine)
+"dt" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"du" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/item/stock_parts/matter_bin{
+	pixel_x = -10;
+	pixel_y = 5
+	},
+/obj/item/stock_parts/matter_bin{
+	pixel_x = 5;
+	pixel_y = 5
+	},
+/obj/item/stock_parts/matter_bin,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"dv" = (
+/obj/item/stock_parts/matter_bin,
+/turf/template_noop,
+/area/template_noop)
+"dw" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"dy" = (
+/obj/structure/window/reinforced,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"dz" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/bridge)
+"dA" = (
+/obj/structure/sign/warning/electricshock,
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/singularity_engine)
+"dB" = (
+/obj/structure/sign/warning/securearea,
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/singularity_engine)
+"dC" = (
+/obj/machinery/door/airlock/engineering{
+	name = "Engineering Access";
+	req_access_txt = "10"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/gravity_generator)
+"dD" = (
+/obj/structure/sign/warning/securearea{
+	name = "ENGINEERING ACCESS"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/gravity_generator)
+"dE" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/template_noop,
+/area/template_noop)
+"dF" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"dG" = (
+/obj/structure/frame/computer,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"dH" = (
+/obj/structure/frame/computer,
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"dI" = (
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 2;
+	name = "2maintenance loot spawner"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"dJ" = (
+/obj/machinery/computer/security,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"dK" = (
+/obj/structure/table,
+/obj/item/stack/cable_coil{
+	pixel_x = 3;
+	pixel_y = -7
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"dL" = (
+/obj/structure/table,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"dM" = (
+/obj/structure/table,
+/obj/item/paper_bin{
+	pixel_x = -3;
+	pixel_y = 7
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"dN" = (
+/obj/item/grenade/empgrenade,
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"dO" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"dP" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"dQ" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"dR" = (
+/obj/item/stack/cable_coil/cut/red,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"dS" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"dU" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/gravity_generator)
+"dV" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/gravity_generator)
+"dW" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"dX" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"dY" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"dZ" = (
+/obj/item/reagent_containers/food/drinks/beer,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"ea" = (
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eb" = (
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge)
+"ec" = (
+/obj/structure/table,
+/obj/item/paper/crumpled,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"ed" = (
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"ee" = (
+/obj/structure/window/reinforced,
+/obj/machinery/portable_atmospherics/canister/toxins,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"ef" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"eg" = (
+/obj/structure/window/reinforced,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"eh" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"ei" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"ej" = (
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/gravity_generator)
+"ek" = (
+/obj/structure/closet/radiation,
+/obj/structure/sign/warning/radiation/rad_area{
+	pixel_x = 32
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/gravity_generator)
+"el" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/gravity_generator)
+"en" = (
+/obj/machinery/power/emitter{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"eo" = (
+/obj/machinery/field/generator,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"ep" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"eq" = (
+/obj/structure/window/reinforced/fulltile,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"er" = (
+/obj/structure/cable,
+/obj/machinery/power/apc{
+	name = "Worn-out APC";
+	pixel_y = -24
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"es" = (
+/obj/structure/cable,
+/obj/machinery/power/apc{
+	name = "Worn-out APC";
+	pixel_y = -24
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"et" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eu" = (
+/obj/item/stack/rods,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"ev" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"ew" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 6
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"ex" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 4
+	},
+/obj/structure/window/reinforced,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"ey" = (
+/obj/structure/noticeboard,
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/singularity_engine)
+"ez" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"eC" = (
+/obj/structure/table,
+/obj/item/paicard,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eD" = (
+/obj/structure/chair/stool,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eE" = (
+/obj/structure/table,
+/obj/item/stock_parts/cell,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eF" = (
+/obj/item/storage/toolbox/syndicate,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"eG" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"eH" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"eI" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"eJ" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"eK" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eL" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/space/derelict/singularity_engine)
+"eM" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eN" = (
+/obj/item/paper/fluff/ruins/thederelict/nukie_objectives,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"eO" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"eP" = (
+/obj/structure/table,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eQ" = (
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eR" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eS" = (
+/obj/structure/chair,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eT" = (
+/obj/structure/table,
+/obj/item/screwdriver,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eU" = (
+/obj/structure/table,
+/obj/item/reagent_containers/food/drinks/beer,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"eV" = (
+/obj/item/stack/rods,
+/turf/template_noop,
+/area/template_noop)
+"eW" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 9
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"eX" = (
+/obj/item/shard,
+/obj/structure/grille/broken,
+/obj/effect/decal/remains/human{
+	desc = "This guy seemed to have died in terrible way! Half his remains are dust.";
+	name = "Syndicate agent remains"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"eY" = (
+/obj/item/clothing/suit/space/syndicate/black/engie,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"eZ" = (
+/obj/item/stack/rods,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fa" = (
+/obj/item/shard,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fb" = (
+/obj/structure/grille,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fc" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fd" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 5
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fe" = (
+/obj/structure/table,
+/obj/item/rack_parts,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"ff" = (
+/obj/structure/window/fulltile,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"fh" = (
+/obj/structure/table,
+/obj/machinery/light/small,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"fi" = (
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"fj" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fk" = (
+/obj/item/clothing/head/helmet/space/syndicate/black/engie,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fl" = (
+/obj/item/shard{
+	icon_state = "small"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fm" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fn" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fo" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/bridge)
+"fp" = (
+/obj/machinery/door/window{
+	dir = 2;
+	name = "Captain's Quarters";
+	req_access_txt = "20"
+	},
+/obj/structure/grille,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/bridge)
+"fq" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fr" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fs" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"ft" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fu" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fv" = (
+/obj/effect/spawner/lootdrop/crate_spawner,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"fw" = (
+/obj/item/drone_shell/dusty,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"fx" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"fy" = (
+/obj/structure/table,
+/obj/item/assembly/flash/handheld,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"fz" = (
+/obj/structure/table,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/item/electronics/airlock,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"fA" = (
+/obj/structure/table,
+/obj/item/stack/cable_coil{
+	pixel_x = 3;
+	pixel_y = -7
+	},
+/obj/item/stock_parts/matter_bin,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"fB" = (
+/obj/structure/table,
+/obj/item/stock_parts/cell{
+	charge = 100;
+	maxcharge = 15000
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"fC" = (
+/turf/template_noop,
+/area/ruin/space/derelict/bridge/access)
+"fD" = (
+/obj/structure/girder,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"fE" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fG" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fI" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 10
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fJ" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fK" = (
+/obj/machinery/door/window,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"fL" = (
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fM" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/item/storage/box/lights/bulbs,
+/obj/item/storage/box/lights/bulbs,
+/obj/structure/table/reinforced/brass,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"fN" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fO" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fP" = (
+/obj/structure/grille,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fQ" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fS" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/bridge/access)
+"fT" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"fU" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fV" = (
+/obj/item/screwdriver,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fW" = (
+/obj/item/stack/rods,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fX" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"fY" = (
+/obj/structure/table,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"fZ" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/hallway/primary)
+"ga" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"gb" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"gc" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gd" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/bridge/access)
+"ge" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"gf" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"gg" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"gh" = (
+/obj/item/stack/ore/slag,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gi" = (
+/obj/item/shard,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gj" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gk" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/hallway/primary)
+"gl" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gm" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"gn" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"go" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gp" = (
+/obj/structure/window/fulltile,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gr" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/unpowered/no_grav)
+"gs" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"gt" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 9
+	},
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gw" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gx" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gy" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gz" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"gA" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gC" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/ruin/unpowered/no_grav)
+"gD" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/unpowered/no_grav)
+"gE" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gG" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"gH" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched1"
+	},
+/area/ruin/unpowered/no_grav)
+"gI" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"gJ" = (
+/obj/structure/grille/broken,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gK" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"gL" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gM" = (
+/obj/item/crowbar,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gN" = (
+/obj/structure/grille,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gO" = (
+/obj/structure/girder,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gP" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/unpowered/no_grav)
+"gQ" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless,
+/area/ruin/unpowered/no_grav)
+"gR" = (
+/obj/item/shard{
+	icon_state = "small"
+	},
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gS" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gT" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"gU" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"gV" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/arrival)
+"gW" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/arrival)
+"gX" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/medical/chapel)
+"gY" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/singularity_engine)
+"gZ" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 10
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"ha" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"hb" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"hc" = (
+/obj/structure/lattice,
+/obj/structure/window/fulltile,
+/turf/template_noop,
+/area/ruin/unpowered/no_grav)
+"hf" = (
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"hj" = (
+/obj/structure/closet/crate/coffin,
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"hk" = (
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"hl" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"hm" = (
+/obj/item/shard,
+/turf/template_noop,
+/area/template_noop)
+"hn" = (
+/obj/structure/grille,
+/turf/template_noop,
+/area/ruin/space/derelict/singularity_engine)
+"ho" = (
+/obj/item/shard,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"hp" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/ruin/space/derelict/arrival)
+"hq" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/arrival)
+"hr" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/arrival)
+"ht" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"hu" = (
+/obj/machinery/door/airlock/medical{
+	name = "Morgue";
+	req_access_txt = "6"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"hv" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/medical)
+"hw" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"hx" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"hy" = (
+/obj/item/shard,
+/obj/structure/grille/broken,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"hz" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"hA" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"hD" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"hF" = (
+/obj/structure/table,
+/obj/machinery/computer/pod/old{
+	id = "derelict_gun";
+	name = "ProComp IIe";
+	pixel_y = 7
+	},
+/turf/open/floor/plasteel/chapel,
+/area/ruin/space/derelict/medical/chapel)
+"hG" = (
+/obj/machinery/door/morgue{
+	name = "coffin storage";
+	req_access_txt = "22"
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"hH" = (
+/obj/structure/bodycontainer/morgue,
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"hI" = (
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"hJ" = (
+/obj/item/bot_assembly/medbot,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"hK" = (
+/obj/structure/closet,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/medical)
+"hL" = (
+/obj/structure/frame/computer,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/medical)
+"hM" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/item/shard{
+	icon_state = "small"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"hN" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"hQ" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/grille,
+/turf/template_noop,
+/area/space/nearstation)
+"hR" = (
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/space/derelict/medical/chapel)
+"hS" = (
+/turf/open/floor/plasteel/chapel{
+	dir = 4
+	},
+/area/ruin/space/derelict/medical/chapel)
+"hT" = (
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/space/derelict/medical/chapel)
+"hU" = (
+/obj/structure/chair{
+	dir = 8
+	},
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/space/derelict/medical/chapel)
+"hV" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"hW" = (
+/obj/item/stack/medical/bruise_pack,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"hX" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/medical)
+"hY" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/medical)
+"hZ" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"ia" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/space/nearstation)
+"ib" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plating/airless,
+/area/space/nearstation)
+"id" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/arrival)
+"ie" = (
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/chapel{
+	dir = 8
+	},
+/area/ruin/space/derelict/medical/chapel)
+"if" = (
+/obj/structure/chair{
+	dir = 4
+	},
+/turf/open/floor/plasteel/chapel,
+/area/ruin/space/derelict/medical/chapel)
+"ig" = (
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/chapel{
+	dir = 8
+	},
+/area/ruin/space/derelict/medical/chapel)
+"ii" = (
+/turf/open/floor/plasteel/chapel{
+	dir = 8
+	},
+/area/ruin/space/derelict/medical/chapel)
+"ij" = (
+/turf/open/floor/plasteel/chapel,
+/area/ruin/space/derelict/medical/chapel)
+"ik" = (
+/obj/structure/chair,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/medical)
+"il" = (
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"im" = (
+/obj/item/storage/box/lights/mixed,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"in" = (
+/obj/item/drone_shell/dusty,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"io" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"ip" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"iq" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/space/nearstation)
+"it" = (
+/obj/structure/window/reinforced,
+/turf/template_noop,
+/area/template_noop)
+"iu" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 6
+	},
+/turf/template_noop,
+/area/space/nearstation)
+"iw" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/chapel{
+	dir = 4
+	},
+/area/ruin/space/derelict/medical/chapel)
+"ix" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/space/derelict/medical/chapel)
+"iA" = (
+/obj/machinery/sleeper{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"iB" = (
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/obj/item/reagent_containers/glass/beaker,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"iC" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"iD" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"iE" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/unpowered/no_grav)
+"iF" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"iH" = (
+/obj/machinery/door/poddoor{
+	id = "derelict_gun";
+	name = "Derelict Mass Driver"
+	},
+/turf/open/floor/plating,
+/area/ruin/unpowered/no_grav)
+"iJ" = (
+/turf/open/floor/plating,
+/area/ruin/space/derelict/medical/chapel)
+"iK" = (
+/obj/machinery/mass_driver{
+	dir = 8;
+	id = "derelict_gun"
+	},
+/obj/machinery/door/window{
+	dir = 4;
+	req_access_txt = "25"
+	},
+/obj/structure/closet/crate/coffin,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/medical/chapel)
+"iL" = (
+/obj/item/shard{
+	icon_state = "small"
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"iM" = (
+/obj/item/stack/medical/bruise_pack,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/medical)
+"iN" = (
+/obj/item/stack/medical/ointment,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/medical)
+"iO" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"iP" = (
+/obj/structure/closet/l3closet,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"iQ" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"iR" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/template_noop,
+/area/template_noop)
+"iS" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/template_noop,
+/area/template_noop)
+"iT" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/grille,
+/turf/template_noop,
+/area/space/nearstation)
+"iU" = (
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/space/derelict/medical/chapel)
+"iV" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/plasteel/chapel{
+	dir = 4
+	},
+/area/ruin/space/derelict/medical/chapel)
+"iW" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/space/derelict/medical/chapel)
+"iX" = (
+/obj/structure/chair{
+	dir = 8
+	},
+/turf/open/floor/plasteel/chapel{
+	dir = 4
+	},
+/area/ruin/space/derelict/medical/chapel)
+"iY" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"iZ" = (
+/obj/item/cigbutt,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"ja" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Med-Sci";
+	req_access_txt = "9"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"jb" = (
+/obj/structure/table,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"jc" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"jf" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"jg" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"jh" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"jj" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/medical)
+"jk" = (
+/obj/item/reagent_containers/glass/beaker,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/medical)
+"jm" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"jn" = (
+/obj/item/shard,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"jo" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"jp" = (
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/unpowered/no_grav)
+"jr" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"js" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"ju" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/chapel{
+	dir = 4
+	},
+/area/ruin/space/derelict/medical/chapel)
+"jw" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/medical/chapel)
+"jx" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/medical/chapel)
+"jy" = (
+/obj/machinery/power/apc{
+	dir = 4;
+	name = "Worn-out APC";
+	pixel_x = 24
+	},
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/medical/chapel)
+"jA" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/bed,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"jB" = (
+/obj/item/stack/medical/ointment,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"jC" = (
+/obj/structure/bed,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"jE" = (
+/obj/machinery/door/airlock/medical{
+	name = "Medical"
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"jF" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"jG" = (
+/obj/structure/window/fulltile,
+/turf/template_noop,
+/area/ruin/unpowered/no_grav)
+"jH" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"jI" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"jJ" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/arrival)
+"jK" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/arrival)
+"jL" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/medical/chapel)
+"jP" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"jR" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"jS" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"jT" = (
+/obj/structure/lattice,
+/obj/structure/grille,
+/turf/template_noop,
+/area/ruin/unpowered/no_grav)
+"jU" = (
+/obj/machinery/door/airlock/external{
+	name = "Arrivals Docking Bay 1"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/arrival)
+"jV" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/unpowered/no_grav)
+"jW" = (
+/obj/structure/closet,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 2;
+	name = "2maintenance loot spawner"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"jX" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched1"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"jY" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched1"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"jZ" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"ka" = (
+/obj/structure/frame/computer,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kc" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/unpowered/no_grav)
+"kd" = (
+/obj/structure/window/fulltile,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"ke" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 2;
+	name = "2maintenance loot spawner"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"kf" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/unpowered/no_grav)
+"kg" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/window/fulltile,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"ki" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"kk" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"km" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched1"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"ko" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kp" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kq" = (
+/obj/item/assembly/prox_sensor{
+	pixel_x = -8;
+	pixel_y = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kt" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"ku" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched1"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"kw" = (
+/obj/structure/window/fulltile,
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"kx" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"ky" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kz" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kA" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kB" = (
+/obj/structure/window/fulltile,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/arrival)
+"kE" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kG" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kH" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kI" = (
+/obj/machinery/vending/hydronutrients,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"kJ" = (
+/obj/structure/girder,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kK" = (
+/obj/structure/girder,
+/turf/open/floor/plasteel/airless,
+/area/ruin/unpowered/no_grav)
+"kL" = (
+/obj/structure/window/fulltile,
+/turf/template_noop,
+/area/space/nearstation)
+"kO" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kP" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kQ" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kS" = (
+/obj/machinery/door/window,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"kT" = (
+/obj/machinery/vending/hydroseeds,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"kU" = (
+/obj/item/cigbutt,
+/turf/template_noop,
+/area/template_noop)
+"kV" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"kW" = (
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kX" = (
+/obj/structure/table,
+/obj/item/stock_parts/cell,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kY" = (
+/obj/machinery/vending/sovietsoda,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"kZ" = (
+/obj/effect/decal/cleanable/blood/gibs/old,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lb" = (
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"lc" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"ld" = (
+/obj/structure/lattice,
+/obj/item/stack/cable_coil/cut/red,
+/turf/template_noop,
+/area/space/nearstation)
+"le" = (
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lf" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on,
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lg" = (
+/obj/structure/chair/stool,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lh" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"li" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"lj" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"lk" = (
+/obj/structure/closet/wardrobe/orange,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 2;
+	name = "2maintenance loot spawner"
+	},
+/obj/item/shovel/spade,
+/obj/item/cultivator,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"ln" = (
+/obj/item/stock_parts/manipulator{
+	pixel_x = -15;
+	pixel_y = 10
+	},
+/obj/item/stock_parts/manipulator,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lo" = (
+/obj/structure/closet,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 3;
+	name = "3maintenance loot spawner"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lp" = (
+/obj/structure/chair/stool,
+/obj/effect/decal/remains/human,
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lq" = (
+/obj/structure/table,
+/obj/item/reagent_containers/glass/beaker{
+	list_reagents = list(/datum/reagent/toxin/acid = 50)
+	},
+/obj/item/paper/crumpled/bloody/ruins/thederelict/unfinished,
+/obj/item/pen,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lr" = (
+/obj/structure/table,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"ls" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/atmospherics)
+"lt" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lu" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lv" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lw" = (
+/obj/machinery/atmospherics/components/unary/tank/air,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lx" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/atmospherics)
+"ly" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/atmospherics)
+"lz" = (
+/turf/template_noop,
+/area/ruin/space/derelict/hallway/primary/port)
+"lA" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/space/derelict/hallway/primary/port)
+"lB" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"lC" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"lD" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"lE" = (
+/obj/structure/bed,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"lF" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lG" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"lH" = (
+/obj/item/ammo_casing/a357,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lI" = (
+/obj/structure/table,
+/obj/item/healthanalyzer,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"lJ" = (
+/obj/machinery/atmospherics/components/unary/portables_connector/visible{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lK" = (
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lL" = (
+/obj/machinery/atmospherics/components/unary/portables_connector/visible{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lM" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/machinery/atmospherics/pipe/simple/cyan/visible{
+	dir = 6
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lN" = (
+/obj/machinery/atmospherics/pipe/manifold/cyan/hidden,
+/obj/machinery/meter,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lO" = (
+/obj/machinery/atmospherics/pipe/simple/cyan/hidden{
+	dir = 9
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lP" = (
+/obj/machinery/door/airlock/maintenance{
+	name = "Atmospherics Access";
+	req_access_txt = "24"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lQ" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"lT" = (
+/obj/machinery/atmospherics/components/unary/portables_connector/visible{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/atmospherics)
+"lU" = (
+/obj/machinery/atmospherics/pipe/simple/supply/hidden{
+	dir = 9
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lV" = (
+/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden{
+	dir = 5
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lW" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/machinery/atmospherics/components/binary/valve,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"lX" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"ma" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"mb" = (
+/obj/structure/lattice,
+/obj/item/stack/cable_coil/cut/red,
+/turf/template_noop,
+/area/ruin/space/derelict/hallway/primary/port)
+"md" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/hallway/secondary)
+"me" = (
+/obj/structure/girder,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"mf" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/hallway/secondary)
+"mh" = (
+/obj/machinery/door/window{
+	base_state = "right";
+	dir = 4;
+	icon_state = "right"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"mi" = (
+/obj/item/ammo_casing/a357{
+	pixel_x = -5
+	},
+/obj/item/ammo_casing/a357{
+	pixel_x = 5;
+	pixel_y = 6
+	},
+/obj/item/ammo_casing/a357,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"mj" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"mk" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched1"
+	},
+/area/ruin/space/derelict/atmospherics)
+"ml" = (
+/obj/structure/window/fulltile,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"mo" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/atmospherics)
+"mp" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/atmospherics)
+"mq" = (
+/turf/open/floor/plasteel{
+	icon_state = "damaged2";
+	initial_gas_mix = "TEMP=2.7"
+	},
+/area/ruin/space/derelict/atmospherics)
+"mr" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/atmospherics)
+"ms" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/atmospherics)
+"mt" = (
+/obj/structure/window/fulltile,
+/turf/template_noop,
+/area/ruin/space/derelict/atmospherics)
+"mv" = (
+/obj/item/shard{
+	icon_state = "small"
+	},
+/turf/template_noop,
+/area/template_noop)
+"mw" = (
+/obj/structure/frame/computer,
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/atmospherics)
+"mx" = (
+/obj/machinery/portable_atmospherics/canister,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/atmospherics)
+"my" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/atmospherics)
+"mz" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/space/derelict/atmospherics)
+"mA" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/template_noop,
+/area/ruin/space/derelict/hallway/primary/port)
+"mD" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle{
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"mF" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"mG" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/atmospherics)
+"mH" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary/port)
+"mI" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"mJ" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"mL" = (
+/obj/structure/window/reinforced,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"mM" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/atmospherics)
+"mN" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged1"
+	},
+/area/ruin/space/derelict/atmospherics)
+"mO" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/template_noop,
+/area/ruin/space/derelict/hallway/primary/port)
+"mP" = (
+/obj/machinery/portable_atmospherics/pump,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"mQ" = (
+/obj/structure/table,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 8;
+	name = "8maintenance loot spawner"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"mR" = (
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"mT" = (
+/obj/machinery/light/small,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/atmospherics)
+"mU" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"mV" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"mX" = (
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/structure/cable,
+/obj/machinery/power/apc{
+	dir = 8;
+	name = "Worn-out APC";
+	pixel_x = -24
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"mY" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"mZ" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"na" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nc" = (
+/obj/machinery/power/apc{
+	areastring = "/area/ruin/space/derelict/atmospherics";
+	dir = 1;
+	name = "Worn-out APC";
+	pixel_y = 24
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nd" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"ne" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict9"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nf" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict10"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"ng" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict11"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nh" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict12"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"ni" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict13"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nj" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict14"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nk" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict15"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nl" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict16"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nm" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nn" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"no" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict1"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"np" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nq" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict3"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nr" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"ns" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict5"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nt" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict6"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nu" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict7"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nv" = (
+/obj/effect/turf_decal/plaque{
+	icon_state = "derelict8"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nw" = (
+/obj/machinery/door/window{
+	dir = 2;
+	name = "Cargo/Service Storage";
+	req_access_txt = "20"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"ny" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nz" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nA" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/end,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nB" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/se_solar)
+"nC" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/airlock/engineering{
+	name = "Aft Solar Access";
+	req_access_txt = "10"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"nE" = (
+/obj/machinery/door/firedoor,
+/obj/effect/spawner/lootdrop/maintenance,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nG" = (
+/obj/structure/closet/emcloset,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nH" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/directional{
+	dir = 1
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nI" = (
+/obj/structure/girder/reinforced,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/se_solar)
+"nJ" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/se_solar)
+"nK" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/se_solar)
+"nL" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/machinery/door/airlock/engineering{
+	name = "Aft Solar Access";
+	req_access_txt = "10"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"nM" = (
+/obj/effect/spawner/structure/window/hollow/reinforced/middle,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/se_solar)
+"nN" = (
+/obj/structure/grille,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"nO" = (
+/obj/machinery/power/smes,
+/obj/structure/cable,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"nP" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"nQ" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/se_solar)
+"nR" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"nS" = (
+/obj/structure/reagent_dispensers/fueltank,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"nT" = (
+/obj/docking_port/stationary{
+	dheight = 0;
+	dir = 2;
+	dwidth = 11;
+	height = 22;
+	id = "whiteship_z4";
+	name = "KSS13: Derelict";
+	width = 35
+	},
+/turf/template_noop,
+/area/template_noop)
+"nV" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/se_solar)
+"nX" = (
+/obj/item/storage/toolbox/syndicate,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"nY" = (
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/structure/cable,
+/obj/machinery/power/solar_control{
+	dir = 1;
+	id = "derelictsolar";
+	name = "Primary Solar Control";
+	track = 0
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"nZ" = (
+/obj/structure/cable,
+/obj/machinery/power/apc/unlocked{
+	dir = 8;
+	environ = 0;
+	equipment = 0;
+	lighting = 0;
+	name = "Worn-out APC";
+	pixel_x = -24
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/se_solar)
+"oa" = (
+/obj/item/paper/fluff/ruins/thederelict/syndie_mission,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/se_solar)
+"ob" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/item/clothing/head/helmet/space/syndicate/black/red,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"oc" = (
+/obj/item/stack/rods,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"of" = (
+/obj/machinery/door/window{
+	base_state = "right";
+	dir = 4;
+	icon_state = "right"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"og" = (
+/obj/machinery/door/window{
+	base_state = "right";
+	dir = 4;
+	icon_state = "right"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"oh" = (
+/obj/item/clothing/suit/space/syndicate/black/red,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"oi" = (
+/obj/effect/decal/remains/human{
+	desc = "This guy seemed to have died in terrible way! Half his remains are dust.";
+	name = "Syndicate agent remains"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"oj" = (
+/obj/machinery/door/airlock/engineering{
+	name = "Engineering Access";
+	req_access_txt = "10"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/gravity_generator)
+"oo" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/lattice/catwalk,
+/turf/template_noop,
+/area/solar/derelict_aft)
+"or" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"os" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"ot" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"ou" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/lattice/catwalk,
+/turf/template_noop,
+/area/solar/derelict_aft)
+"ov" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"oB" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/lattice/catwalk,
+/turf/template_noop,
+/area/solar/derelict_aft)
+"oC" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"oD" = (
+/obj/machinery/power/tracker,
+/obj/structure/cable,
+/turf/open/floor/plasteel/airless,
+/area/solar/derelict_aft)
+"oE" = (
+/obj/structure/frame/computer{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"oI" = (
+/obj/item/beacon,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"oL" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"oQ" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/ruin/unpowered/no_grav)
+"pu" = (
+/obj/structure/table/reinforced/brass,
+/obj/machinery/cell_charger,
+/obj/item/areaeditor/blueprints,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"px" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"pH" = (
+/obj/structure/closet/wardrobe/genetics_white,
+/obj/effect/spawner/lootdrop/maintenance{
+	lootcount = 2;
+	name = "2maintenance loot spawner"
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"pP" = (
+/obj/structure/closet/crate/coffin,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"qr" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/bridge/access)
+"qw" = (
+/obj/machinery/pipedispenser,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"qx" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/medical)
+"qP" = (
+/obj/machinery/light/small,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"qT" = (
+/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/template_noop,
+/area/space/nearstation)
+"qY" = (
+/obj/structure/lattice/catwalk,
+/turf/template_noop,
+/area/template_noop)
+"qZ" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/obj/structure/table/reinforced/brass,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/obj/item/clothing/suit/space/hardsuit,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"rb" = (
+/obj/machinery/door/airlock/maintenance{
+	name = "Tech Storage";
+	req_access_txt = "23"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"rk" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/ruin/space/derelict/arrival)
+"rr" = (
+/obj/machinery/autolathe,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"rE" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/arrival)
+"rH" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/closed/wall,
+/area/ruin/space/derelict/hallway/primary)
+"rK" = (
+/turf/template_noop,
+/area/ruin/space/derelict/medical)
+"rN" = (
+/obj/machinery/door/window{
+	dir = 2;
+	name = "Medical Storage";
+	req_access_txt = "20"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"rO" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"rU" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"sj" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"su" = (
+/obj/structure/cable,
+/obj/machinery/power/smes,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"sT" = (
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/turf/open/floor/plasteel/airless,
+/area/solar/derelict_aft)
+"sV" = (
+/obj/machinery/door/airlock/medical{
+	name = "Morgue";
+	req_access_txt = "6"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"tn" = (
+/obj/structure/grille,
+/turf/template_noop,
+/area/template_noop)
+"tp" = (
+/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/template_noop,
+/area/space/nearstation)
+"ts" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/closed/wall,
+/area/ruin/unpowered/no_grav)
+"ty" = (
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/obj/effect/spawner/lootdrop/maintenance,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/chapel{
+	dir = 1
+	},
+/area/ruin/space/derelict/medical/chapel)
+"tE" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/table/reinforced/brass,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"tR" = (
+/obj/machinery/computer/teleporter,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"tS" = (
+/turf/template_noop,
+/area/ruin/unpowered/no_grav)
+"uf" = (
+/obj/machinery/door/airlock/maintenance{
+	name = "Aux Storage";
+	req_access_txt = "23"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"uk" = (
+/obj/effect/turf_decal/tile/purple{
+	dir = 1
+	},
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/purple{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"uq" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"uu" = (
+/obj/machinery/door/window/southright,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"uO" = (
+/obj/machinery/door/window{
+	dir = 1;
+	name = "Security Storage"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"uW" = (
+/obj/machinery/door/airlock/maintenance{
+	name = "Atmospherics Access";
+	req_access_txt = "24"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"vf" = (
+/obj/structure/grille,
+/turf/open/floor/plating/airless,
+/area/space/nearstation)
+"vn" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"vr" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/door/airlock/research{
+	name = "Toxins Research";
+	req_access_txt = "7"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"vs" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"vt" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"vv" = (
+/obj/effect/turf_decal/tile/brown{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/brown{
+	dir = 1
+	},
+/obj/machinery/light,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"vw" = (
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"vC" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/template_noop,
+/area/space/nearstation)
+"vV" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"wn" = (
+/obj/machinery/door/airlock/engineering{
+	name = "Engineering Access";
+	req_access_txt = "10"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/gravity_generator)
+"ws" = (
+/obj/machinery/door/airlock/public/glass,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"wG" = (
+/obj/machinery/door/window{
+	dir = 4;
+	req_access_txt = "25"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"wK" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/se_solar)
+"xi" = (
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/turf/template_noop,
+/area/ruin/unpowered/no_grav)
+"xo" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"xp" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"xu" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"xv" = (
+/obj/structure/cable,
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/structure/cable,
+/turf/open/floor/plasteel/airless,
+/area/solar/derelict_aft)
+"xw" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/airlock/external,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"xx" = (
+/obj/item/beacon,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"xB" = (
+/obj/machinery/door/airlock/command{
+	name = "Teleporter Room"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/medical/chapel)
+"xP" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/table/reinforced/brass,
+/obj/machinery/cell_charger,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"yc" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/metal/fifty,
+/obj/item/stack/sheet/metal/fifty,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"ye" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"yk" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/obj/item/stock_parts/cell/high,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"ys" = (
+/obj/structure/closet/wardrobe,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"yA" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/stack/cable_coil/red,
+/obj/item/stack/cable_coil/red,
+/obj/item/stack/cable_coil/red,
+/obj/item/stack/cable_coil/red,
+/obj/item/stack/cable_coil/red,
+/obj/item/stack/cable_coil/red,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"yD" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/firedoor,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"zB" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/machinery/light{
+	dir = 1;
+	light_color = "#c1caff"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"zC" = (
+/obj/machinery/door/window{
+	base_state = "right";
+	dir = 4;
+	icon_state = "right"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/ai_upload)
+"zZ" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"Am" = (
+/obj/machinery/door/window{
+	dir = 1;
+	name = "Engineering Storage"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Av" = (
+/obj/item/stack/rods,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"AH" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/unpowered/no_grav)
+"AK" = (
+/obj/item/stack/rods,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"AW" = (
+/obj/machinery/teleport/hub,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Bl" = (
+/obj/machinery/door/firedoor,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"Bu" = (
+/obj/machinery/door/window,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"Bw" = (
+/obj/machinery/door/window{
+	dir = 8
+	},
+/obj/item/shard{
+	icon_state = "medium"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"Bx" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/space/nearstation)
+"By" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Bz" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"BA" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/wallframe/firealarm,
+/obj/item/wallframe/firealarm,
+/obj/item/wallframe/firealarm,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"BY" = (
+/obj/item/beacon,
+/turf/open/floor/plasteel/chapel,
+/area/ruin/space/derelict/medical/chapel)
+"Cd" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"Ch" = (
+/obj/machinery/power/port_gen/pacman,
+/obj/item/stack/sheet/mineral/uranium{
+	amount = 15
+	},
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/item/stack/sheet/mineral/plasma{
+	amount = 15
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Ct" = (
+/obj/machinery/door/window{
+	base_state = "right";
+	dir = 4;
+	icon_state = "right"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"CI" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/wallframe/apc,
+/obj/item/wallframe/apc,
+/obj/item/wallframe/apc,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"CW" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/ruin/unpowered/no_grav)
+"Df" = (
+/obj/machinery/door/window,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/medical/chapel)
+"Dh" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Ds" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/obj/machinery/portable_atmospherics/pump,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Dz" = (
+/obj/machinery/door/airlock/external{
+	name = "Air Bridge Access"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/solar_control)
+"DB" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"DG" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"DS" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"DX" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"Ed" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"Ee" = (
+/obj/machinery/teleport/station,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Eq" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Ev" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/space/nearstation)
+"ER" = (
+/obj/machinery/door/airlock/engineering{
+	name = "Starboard Solar Access";
+	req_access_txt = "10"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"Ff" = (
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#e8eaff"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Fk" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/closed/wall,
+/area/ruin/space/derelict/arrival)
+"Fu" = (
+/obj/machinery/door/window/eastleft{
+	name = "Heads of Staff";
+	req_access_txt = "19"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"Fw" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"FZ" = (
+/obj/machinery/portable_atmospherics/canister/air,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Gj" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/closed/wall,
+/area/ruin/space/derelict/bridge/access)
+"Go" = (
+/obj/structure/table/reinforced/brass,
+/obj/machinery/recharger,
+/obj/item/areaeditor/blueprints,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Gu" = (
+/obj/structure/grille,
+/turf/template_noop,
+/area/space/nearstation)
+"GI" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"GM" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/ruin/unpowered/no_grav)
+"GO" = (
+/obj/structure/bed,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"GT" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/closed/wall,
+/area/ruin/unpowered/no_grav)
+"Hh" = (
+/obj/machinery/door/airlock/glass_large{
+	name = "Storage"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Hm" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"HR" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Ih" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/hallway/primary/port)
+"Io" = (
+/obj/machinery/door/firedoor,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"Iu" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/medical)
+"Iz" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/arrival)
+"IA" = (
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/space/nearstation)
+"II" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"Jp" = (
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/template_noop,
+/area/solar/derelict_aft)
+"Jy" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"JG" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/structure/closet/wardrobe,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"JM" = (
+/obj/machinery/door/window,
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"JQ" = (
+/obj/machinery/door/airlock/external{
+	name = "External Engineering"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/solar_control)
+"JT" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel{
+	icon_state = "damaged5"
+	},
+/area/ruin/space/derelict/solar_control)
+"Kg" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Kv" = (
+/obj/structure/table/reinforced/brass,
+/obj/machinery/recharger,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Kw" = (
+/obj/machinery/door/airlock/command{
+	name = "E.V.A.";
+	req_access_txt = "18"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"KB" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/hallway/secondary)
+"KM" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge)
+"KN" = (
+/turf/closed/wall,
+/area/ruin/space/derelict/hallway/primary/port)
+"KT" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"KX" = (
+/obj/effect/turf_decal/tile/red{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/red{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Le" = (
+/obj/machinery/door/airlock/external{
+	name = "Arrivals Docking Bay 1"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/arrival)
+"Lv" = (
+/turf/closed/wall,
+/area/space/nearstation)
+"LH" = (
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Mb" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/glass/fifty,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Mj" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/unpowered/no_grav)
+"Mr" = (
+/obj/item/storage/toolbox/electrical{
+	pixel_x = 1;
+	pixel_y = -1
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"Mz" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/solar_control)
+"ME" = (
+/obj/item/stack/cable_coil/cut/red{
+	amount = 2
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/medical)
+"MG" = (
+/obj/effect/turf_decal/tile/brown{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/brown{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"ML" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"MM" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/brown{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/brown{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"MY" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/bridge/access)
+"MZ" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/ruin/unpowered/no_grav)
+"Nf" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/hallway/secondary)
+"Nh" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "floorscorched2"
+	},
+/area/ruin/unpowered/no_grav)
+"Nl" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/closed/wall,
+/area/ruin/space/derelict/bridge/access)
+"No" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/structure/table,
+/obj/item/paper/fluff/ruins/thederelict/equipment,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/gravity_generator)
+"Nw" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"NU" = (
+/obj/machinery/door/airlock/engineering{
+	name = "Engineering Access";
+	req_access_txt = "10"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/gravity_generator)
+"Og" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/closed/wall/r_wall,
+/area/ruin/unpowered/no_grav)
+"Oj" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/bridge/access)
+"Oo" = (
+/obj/machinery/door/airlock/engineering{
+	name = "Engineering Secure Storage";
+	req_access_txt = "10"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"OB" = (
+/obj/machinery/door/window{
+	base_state = "right";
+	dir = 4;
+	icon_state = "right"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"OJ" = (
+/obj/machinery/door/airlock/security{
+	name = "Security";
+	req_access_txt = "1"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"OP" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"OT" = (
+/turf/closed/wall/r_wall,
+/area/ruin/space/derelict/hallway/primary/port)
+"Pb" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Pw" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"PM" = (
+/obj/machinery/space_heater,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"PV" = (
+/obj/machinery/portable_atmospherics/scrubber,
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"PZ" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Qc" = (
+/obj/machinery/power/terminal{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/item/drone_shell/dusty,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"Qg" = (
+/obj/machinery/door/window{
+	dir = 2;
+	name = "Science Storage";
+	req_access_txt = "20"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Qo" = (
+/obj/machinery/door/window,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"QM" = (
+/obj/structure/bodycontainer/morgue,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/space/derelict/medical/chapel)
+"QZ" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/storage/toolbox/syndicate,
+/obj/item/storage/toolbox/syndicate,
+/obj/item/storage/toolbox/syndicate,
+/obj/item/storage/toolbox/syndicate,
+/obj/item/storage/toolbox/syndicate,
+/obj/item/storage/toolbox/syndicate,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Rd" = (
+/obj/item/stack/cable_coil/red,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged4"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"Rl" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary)
+"Rp" = (
+/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/template_noop,
+/area/space/nearstation)
+"Rv" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/space/nearstation)
+"Ry" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"RU" = (
+/obj/machinery/door/window/southleft,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"Sa" = (
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/solar/derelict_aft)
+"Sb" = (
+/obj/item/wirecutters,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"Sd" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/atmospherics)
+"Si" = (
+/obj/machinery/door/window{
+	dir = 2;
+	name = "Overflow Storage";
+	req_access_txt = "20"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Sl" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/obj/machinery/door/window,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Sv" = (
+/turf/closed/wall/r_wall,
+/area/space/nearstation)
+"Tm" = (
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"TD" = (
+/obj/structure/door_assembly/door_assembly_mai{
+	name = "airlock assembly"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"Uk" = (
+/obj/machinery/door/window{
+	dir = 8
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Uy" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"Uz" = (
+/turf/open/floor/plating/airless,
+/area/space/nearstation)
+"UL" = (
+/obj/machinery/light{
+	dir = 8;
+	light_color = "#e8eaff"
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Vf" = (
+/obj/machinery/door/airlock/highsecurity,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"Vj" = (
+/obj/machinery/door/window{
+	dir = 8
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/medical/chapel)
+"Vz" = (
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary/port)
+"VB" = (
+/obj/machinery/door/airlock/external{
+	name = "External Engineering"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/solar_control)
+"VN" = (
+/obj/structure/table,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/effect/spawner/lootdrop/maintenance,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/chapel{
+	dir = 8
+	},
+/area/ruin/space/derelict/medical/chapel)
+"VX" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/hallway/primary)
+"Wb" = (
+/obj/machinery/power/apc/unlocked{
+	dir = 8;
+	environ = 0;
+	equipment = 0;
+	lighting = 0;
+	name = "Starboard Solar APC";
+	pixel_x = -24
+	},
+/obj/structure/cable,
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"We" = (
+/obj/machinery/door/airlock/external{
+	name = "Escape Airlock"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/hallway/secondary)
+"Wf" = (
+/obj/structure/table/reinforced/brass,
+/obj/item/wallframe/airalarm,
+/obj/item/wallframe/airalarm,
+/obj/item/wallframe/airalarm,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"Ws" = (
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/ruin/space/derelict/bridge/access)
+"WF" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/space_heater,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/arrival)
+"WT" = (
+/obj/machinery/door/airlock/maintenance{
+	name = "Atmospherics Access";
+	req_access_txt = "24"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/atmospherics)
+"Xj" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless/white,
+/area/ruin/space/derelict/medical)
+"Xq" = (
+/obj/item/stack/cable_coil/cut/red,
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"XF" = (
+/obj/machinery/door/window,
+/obj/structure/fans/tiny,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"XM" = (
+/obj/machinery/door/window,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/hallway/primary)
+"Yh" = (
+/obj/machinery/door/window,
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"YG" = (
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged3"
+	},
+/area/ruin/unpowered/no_grav)
+"YP" = (
+/obj/machinery/door/airlock/external{
+	name = "External Engineering"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plating/airless,
+/area/ruin/space/derelict/singularity_engine)
+"Zg" = (
+/obj/structure/closet,
+/obj/effect/spawner/lootdrop/maintenance,
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/solar_control)
+"Zi" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/door/airlock/research{
+	name = "Toxins Research";
+	req_access_txt = "7"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/arrival)
+"Zn" = (
+/obj/machinery/door/airlock/external{
+	name = "Air Bridge Access"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/ai_upload)
+"Zo" = (
+/obj/machinery/door/airlock/maintenance,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel,
+/area/ruin/space/derelict/bridge/access)
+"ZB" = (
+/obj/structure/lattice,
+/turf/template_noop,
+/area/space/nearstation)
+"ZD" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/closed/wall,
+/area/ruin/unpowered/no_grav)
+"ZF" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/obj/machinery/camera{
+	c_tag = "Cargo Bay Entrance";
+	dir = 4
+	},
+/turf/open/floor/plasteel/airless{
+	icon_state = "damaged2"
+	},
+/area/ruin/space/derelict/singularity_engine)
+"ZG" = (
+/obj/machinery/door/window{
+	base_state = "right";
+	dir = 4;
+	icon_state = "right"
+	},
+/obj/structure/fans/tiny,
+/turf/open/floor/plasteel/airless,
+/area/ruin/space/derelict/se_solar)
+"ZK" = (
+/obj/structure/cable,
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/obj/machinery/power/solar{
+	id = "derelictsolar";
+	name = "Derelict Solar Array"
+	},
+/turf/open/floor/plasteel/airless,
+/area/solar/derelict_aft)
+"ZP" = (
+/obj/structure/lattice,
+/obj/structure/lattice/catwalk,
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/template_noop,
+/area/space/nearstation)
+
+(1,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+it
+iH
+iS
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(2,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Gu
+hQ
+hQ
+iu
+CW
+iT
+hQ
+hQ
+Gu
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(3,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+gX
+gX
+gX
+hR
+ie
+ty
+iJ
+iU
+VN
+hR
+jL
+aY
+aY
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(4,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+pP
+gX
+hF
+hS
+if
+iw
+iJ
+iV
+ij
+hS
+jL
+gP
+gH
+ay
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(5,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hj
+gX
+gX
+hT
+ig
+ix
+iJ
+iW
+ii
+hT
+jL
+ay
+dE
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(6,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hj
+pP
+gX
+hS
+ij
+iw
+iK
+iV
+ij
+ju
+jL
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(7,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hj
+ht
+gX
+hU
+ii
+hT
+ii
+hT
+ii
+hT
+jL
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(8,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hk
+hk
+gX
+hS
+ij
+hS
+BY
+iX
+ij
+hS
+jL
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(9,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hk
+hk
+gX
+hT
+ii
+hT
+ii
+hU
+ii
+hT
+jL
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(10,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hk
+hk
+hG
+hS
+ij
+hS
+ij
+hS
+ij
+hS
+jL
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(11,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hk
+gX
+gX
+gX
+gX
+gX
+gX
+gX
+gX
+Vj
+jL
+ZB
+ZB
+ay
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(12,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hk
+gX
+hH
+hH
+hH
+QM
+hH
+hH
+gX
+jw
+jL
+dE
+ay
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(13,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hl
+hu
+hk
+hk
+hk
+hk
+hk
+hk
+gX
+jw
+jL
+jV
+gP
+ay
+aY
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(14,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hj
+gX
+hl
+hH
+hH
+hH
+hH
+hk
+gX
+jw
+jL
+jL
+xB
+jL
+jL
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(15,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+gX
+gX
+hk
+hk
+hk
+hk
+hk
+hk
+gX
+jx
+gX
+fZ
+go
+fZ
+fZ
+fZ
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(16,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hk
+hH
+hH
+hH
+hH
+ht
+gX
+jw
+gX
+jW
+gL
+DB
+gn
+gL
+ZB
+ZB
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(17,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+hk
+hk
+hk
+hk
+hk
+hk
+gX
+jy
+Df
+jX
+gl
+VX
+gL
+gm
+gn
+ZB
+ZB
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(18,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gX
+gX
+gX
+sV
+gX
+sV
+gX
+gX
+gX
+gX
+jY
+km
+gy
+fZ
+fZ
+fZ
+fZ
+gL
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(19,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+hv
+hI
+hV
+hI
+iA
+hI
+Xj
+hV
+iA
+fZ
+go
+go
+ku
+fZ
+GO
+kW
+fZ
+gL
+ZB
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(20,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+hw
+hI
+hI
+hI
+hI
+hI
+hI
+hI
+hI
+fZ
+go
+go
+gc
+fZ
+jZ
+go
+fZ
+gL
+gL
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(21,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+hw
+hI
+hI
+hI
+hI
+hI
+hI
+hI
+hI
+fZ
+jZ
+go
+gc
+OP
+go
+kX
+fZ
+ln
+gL
+gL
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(22,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+hw
+hJ
+hI
+hI
+hI
+hI
+hI
+hI
+hI
+fZ
+go
+go
+gc
+fZ
+fZ
+fZ
+fZ
+ka
+jY
+gL
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(23,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+dr
+dr
+dr
+ZB
+ZB
+aa
+aa
+aa
+aa
+hv
+hI
+hI
+hI
+hI
+hI
+hI
+jf
+cQ
+fZ
+jW
+go
+gc
+fZ
+GO
+kW
+fZ
+jY
+lF
+gL
+gL
+ZB
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(24,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+ZB
+aa
+aa
+aa
+hx
+hK
+hW
+hI
+iB
+iL
+iY
+jg
+jA
+fZ
+go
+go
+gc
+fZ
+jZ
+go
+fZ
+lo
+go
+jY
+gL
+ZB
+ZB
+ZB
+ZB
+aa
+aa
+aa
+aa
+ZB
+aa
+ZB
+ZB
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(25,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+ZB
+dr
+dr
+fL
+ZF
+ez
+dr
+dr
+ZB
+ZB
+aa
+aa
+hy
+hL
+hX
+hX
+iC
+hI
+hI
+jh
+jB
+fZ
+go
+go
+gc
+XM
+go
+kW
+fZ
+jY
+lG
+go
+gL
+gL
+fZ
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+ZB
+ch
+ZB
+ZB
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(26,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+ZB
+dr
+dr
+ez
+dO
+dX
+ez
+ez
+dr
+dr
+ZB
+aa
+hm
+hz
+hz
+hY
+ik
+hX
+iM
+iZ
+xu
+jC
+fZ
+fZ
+fZ
+OB
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+mh
+fZ
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+md
+mZ
+mZ
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(27,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+aK
+aR
+Vf
+aR
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+fG
+fE
+fU
+fU
+gs
+dr
+dr
+dr
+aa
+aa
+hA
+hz
+hz
+il
+hY
+hX
+hI
+jh
+hI
+fZ
+ka
+kp
+gc
+go
+kO
+kY
+go
+xp
+kp
+go
+go
+mi
+fZ
+gL
+aa
+gL
+gL
+ZB
+gL
+aa
+aa
+me
+mU
+mZ
+ZB
+ay
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(28,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+Zn
+ax
+ax
+aR
+ax
+bl
+bl
+bl
+bl
+bl
+bl
+bl
+bl
+bl
+bl
+ZB
+ZB
+ZB
+ZB
+ZB
+aa
+aa
+aa
+ZB
+ZB
+ZB
+ZB
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+Xq
+fd
+ft
+ft
+ew
+dr
+dr
+dr
+gY
+aL
+hv
+hM
+hZ
+hz
+hz
+iN
+hX
+xu
+hv
+fZ
+go
+go
+gc
+go
+kO
+kZ
+le
+lp
+lH
+go
+go
+go
+fZ
+gL
+gL
+mJ
+gL
+fZ
+gL
+ZB
+gL
+md
+mU
+mZ
+ny
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(29,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+aX
+be
+ax
+vf
+vf
+vf
+vf
+vf
+vf
+Uz
+Rv
+cb
+aa
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+ZB
+ZB
+dr
+dr
+ee
+ev
+dW
+Pw
+dO
+ez
+ez
+ez
+ez
+ez
+dP
+ez
+dO
+ez
+dO
+rU
+dW
+dW
+YP
+eL
+hz
+hz
+hz
+hY
+hX
+qx
+ME
+RU
+jc
+jc
+kx
+kE
+kO
+kZ
+lf
+lq
+lI
+lr
+lg
+go
+fZ
+hD
+gm
+gL
+gL
+Rl
+gL
+gL
+gL
+md
+mU
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(30,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+Vf
+ax
+bl
+bl
+bl
+bl
+bl
+bl
+bl
+bl
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+Sv
+ZB
+dr
+dr
+ef
+ev
+ez
+dP
+dX
+dO
+ez
+ez
+ez
+dP
+dP
+dX
+dP
+ez
+gI
+dP
+gY
+hn
+eL
+eL
+hz
+hz
+hz
+hz
+hY
+hY
+jE
+uu
+go
+go
+go
+gc
+kP
+go
+lg
+lr
+lr
+lr
+lg
+go
+fZ
+gn
+gL
+gn
+go
+fZ
+gn
+gL
+gL
+md
+na
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(31,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+aR
+aR
+aR
+aR
+aR
+aR
+aR
+aR
+bg
+ax
+ZB
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Sv
+de
+dr
+dr
+DG
+eg
+ev
+ez
+dX
+dO
+eW
+fq
+fq
+fI
+ez
+dP
+eZ
+gt
+fq
+gJ
+gR
+eL
+eL
+hn
+eL
+eL
+rK
+rK
+hz
+hz
+jj
+hv
+fZ
+go
+go
+go
+gc
+XM
+go
+go
+lg
+go
+go
+go
+go
+XF
+go
+go
+gL
+go
+fZ
+gm
+mR
+gm
+md
+mU
+mU
+nz
+ac
+aa
+aa
+aa
+nT
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(32,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+bf
+ax
+ax
+ax
+ax
+ax
+ax
+px
+ax
+ax
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+dr
+dr
+dP
+eh
+ev
+ez
+dO
+eW
+fj
+fr
+fj
+fJ
+dW
+dX
+gh
+gj
+dW
+dW
+dW
+eL
+eL
+eL
+eL
+eL
+eL
+rK
+iO
+hz
+jk
+hv
+fZ
+go
+js
+go
+gc
+kQ
+go
+go
+go
+js
+go
+go
+go
+fZ
+lG
+go
+go
+gm
+fZ
+go
+gn
+go
+uf
+mU
+mU
+md
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(33,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+bg
+aR
+aR
+aR
+aR
+aR
+aR
+aR
+ax
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+dr
+dA
+dQ
+eh
+ew
+eF
+eN
+eX
+fk
+dP
+dP
+dW
+dW
+dW
+dW
+dW
+dW
+dO
+dW
+gJ
+dW
+ez
+dr
+dr
+eL
+eL
+hv
+ja
+hv
+hv
+fZ
+fZ
+fZ
+fZ
+OB
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+gO
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+md
+mU
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(34,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+aR
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+cl
+cl
+cl
+cl
+dr
+dr
+dR
+dO
+dW
+dP
+dO
+eY
+fl
+dW
+dW
+eZ
+dW
+dW
+dW
+dW
+dO
+dX
+dO
+fb
+ho
+ez
+dr
+dr
+dr
+eL
+hv
+Iu
+pH
+hv
+fZ
+go
+kp
+xp
+gc
+kp
+go
+fZ
+ls
+lJ
+lT
+lt
+mj
+mo
+mw
+mF
+mL
+lt
+ls
+lt
+lx
+aa
+md
+mU
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(35,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+aR
+aR
+aR
+aR
+aR
+aR
+aR
+bg
+ax
+aa
+aa
+aa
+aa
+aa
+cn
+cu
+cu
+cw
+cO
+cY
+df
+No
+dB
+dS
+ei
+ex
+dO
+dX
+eZ
+dW
+dW
+dW
+aa
+aa
+aa
+aa
+aa
+dW
+dW
+gS
+ft
+ez
+dO
+ez
+dr
+dr
+dr
+hv
+ja
+hv
+hv
+fZ
+go
+go
+go
+gc
+go
+go
+fZ
+lt
+lK
+lU
+ls
+lt
+lt
+mx
+ls
+mM
+ls
+lt
+mP
+lx
+aa
+md
+nc
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(36,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+px
+ax
+ax
+aa
+aa
+ZB
+aa
+ZB
+co
+cv
+cG
+cO
+cO
+cZ
+dg
+cO
+cl
+NU
+oj
+dr
+eG
+dO
+dW
+dW
+dW
+dW
+aa
+aa
+aa
+aa
+aa
+dW
+dW
+dO
+ez
+dO
+dP
+hN
+dr
+im
+dr
+hv
+iD
+YG
+jp
+fZ
+go
+go
+go
+kG
+jc
+es
+fZ
+lu
+lt
+lV
+lt
+lt
+lt
+lt
+lt
+ls
+lt
+ls
+ma
+ls
+lx
+md
+nd
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(37,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+bg
+aR
+aR
+aR
+aR
+aR
+aR
+aR
+ax
+ax
+aa
+Uz
+ZB
+aa
+cl
+cp
+cw
+cH
+cO
+cO
+wn
+dh
+dt
+dC
+dU
+ej
+dr
+ez
+dW
+fa
+dW
+dW
+dW
+aa
+aa
+aa
+aa
+aa
+dW
+dW
+dP
+ez
+dO
+dP
+dX
+dW
+in
+dr
+iP
+ay
+ay
+jp
+fZ
+go
+go
+go
+gc
+go
+go
+fZ
+lt
+lL
+lL
+ma
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+lt
+mG
+mT
+md
+ne
+no
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(38,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+aR
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+aa
+vf
+Lv
+aa
+cl
+co
+cu
+cu
+cP
+cO
+db
+dg
+cO
+cl
+dV
+ek
+ey
+dW
+dW
+dW
+dW
+dW
+dW
+aa
+aa
+aa
+aa
+aa
+dW
+dP
+dX
+ez
+fW
+dP
+dO
+dr
+io
+dr
+iQ
+ay
+ay
+gP
+fZ
+go
+go
+go
+gc
+go
+go
+fZ
+lv
+lM
+lW
+ma
+ls
+lt
+lt
+lt
+ls
+mN
+mG
+lt
+lt
+mG
+md
+nf
+np
+md
+ch
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(39,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+aR
+aR
+aR
+aR
+aR
+aR
+aR
+bg
+ax
+aa
+vf
+Lv
+aa
+cl
+cq
+cu
+cI
+co
+cu
+dc
+di
+du
+dD
+cl
+el
+dr
+ez
+ez
+dW
+dW
+dW
+dW
+aa
+aa
+aa
+aa
+aa
+dW
+dO
+eh
+gZ
+ez
+dO
+ez
+dr
+dr
+dr
+GM
+ay
+ay
+gD
+fZ
+fZ
+fZ
+go
+gc
+go
+go
+fZ
+lw
+lN
+lt
+ls
+lt
+mp
+ls
+ls
+lt
+ls
+mN
+lt
+ls
+mG
+md
+ng
+nq
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(40,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+bp
+aR
+ax
+ax
+vf
+Lv
+aa
+cl
+cl
+ZB
+aa
+aa
+ZB
+cl
+cl
+dr
+dr
+dW
+ZF
+dW
+ez
+dO
+fb
+fm
+dW
+dW
+dW
+dW
+dW
+dW
+dW
+dW
+dW
+ei
+ev
+ez
+ez
+dr
+dr
+dr
+GM
+tS
+tS
+jm
+jF
+fZ
+fZ
+fZ
+go
+gc
+go
+go
+fZ
+lw
+lO
+ls
+ls
+mk
+mq
+my
+lt
+lt
+lt
+lt
+mQ
+lt
+lt
+md
+nh
+nr
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(41,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+Ct
+ax
+ax
+ax
+ZB
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+dr
+dr
+dO
+dO
+ez
+dO
+dO
+fc
+fm
+dW
+dW
+dW
+dW
+dW
+dW
+dW
+dW
+dW
+eh
+ev
+dO
+ez
+dr
+dr
+GM
+GM
+GM
+GM
+jn
+ay
+gD
+fZ
+fZ
+jZ
+gc
+go
+go
+fZ
+lx
+lx
+lx
+lx
+lx
+mr
+lt
+lt
+lt
+lt
+ms
+lt
+lt
+lt
+md
+ni
+ns
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(42,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+ax
+aR
+aR
+bw
+by
+aR
+aR
+bT
+ax
+Uz
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+dr
+dr
+dX
+dO
+dX
+dP
+dO
+fd
+fn
+fs
+fE
+fE
+fN
+fV
+dW
+dW
+dW
+gK
+gS
+ew
+dP
+dO
+dr
+dr
+GM
+tS
+tS
+GM
+ay
+gD
+jp
+fZ
+fZ
+go
+gc
+go
+go
+uW
+lt
+lP
+Sd
+lP
+WT
+mr
+lt
+mr
+mr
+mG
+mN
+mp
+lx
+lx
+md
+nj
+nt
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(43,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+bg
+aR
+aR
+aR
+aR
+be
+ax
+ax
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Sv
+dj
+dr
+dr
+dO
+dO
+Xq
+Rd
+dO
+ez
+fd
+ft
+ft
+ew
+dW
+dW
+gi
+gw
+gE
+gE
+gT
+dO
+dX
+dP
+dr
+dr
+GM
+tS
+xi
+GM
+ay
+ay
+jp
+fZ
+xp
+ky
+kH
+go
+go
+fZ
+lx
+lx
+lx
+lx
+lx
+ms
+mt
+mG
+mG
+mp
+mp
+mt
+lx
+aa
+md
+nk
+nu
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(44,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+ax
+bn
+aR
+bx
+bD
+aR
+ax
+bU
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+Sv
+ZB
+dr
+dr
+en
+ez
+ez
+dX
+dP
+dO
+ez
+dW
+dW
+ez
+ez
+dW
+ez
+dP
+dX
+dP
+dO
+ez
+dr
+dr
+GM
+tS
+iD
+tS
+GM
+ay
+ay
+jp
+fZ
+go
+gc
+go
+gk
+gk
+gk
+ly
+ly
+ly
+ly
+ly
+mt
+mz
+mt
+lx
+lx
+mt
+ab
+ab
+aa
+md
+nl
+nv
+md
+eu
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(45,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+bg
+aR
+aR
+aR
+aR
+bt
+Vf
+be
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+ZB
+dr
+dr
+eo
+dW
+ez
+dO
+dX
+dP
+fu
+ez
+ez
+fO
+fW
+ez
+ez
+dP
+ez
+dP
+ez
+ez
+dr
+dr
+tS
+tS
+iD
+tS
+tS
+jo
+gP
+gD
+fZ
+go
+gc
+go
+gk
+Cd
+Tm
+lz
+lz
+lz
+lz
+OT
+lz
+lA
+lA
+lz
+Ih
+Ih
+lz
+lA
+lz
+md
+nd
+mU
+nz
+eu
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(46,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ax
+ax
+ax
+ax
+bo
+aR
+by
+by
+bg
+ax
+bV
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+ZB
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dO
+fP
+fX
+dO
+fb
+dr
+dr
+dr
+dr
+dr
+dr
+GM
+ay
+ay
+iE
+ay
+jb
+jp
+jp
+jb
+fZ
+go
+gc
+go
+gk
+Vz
+Tm
+lz
+lA
+lA
+lA
+OT
+lA
+lA
+lA
+lz
+lz
+mO
+lz
+lA
+lz
+md
+nd
+mU
+nz
+eu
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(47,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+ax
+bp
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+ZB
+ZB
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+dr
+ez
+fQ
+fQ
+gj
+fJ
+dr
+dr
+dr
+dr
+dr
+dr
+GM
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+go
+gc
+go
+gk
+lb
+Tm
+lA
+lA
+lz
+lA
+OT
+lz
+Ih
+lA
+lA
+lA
+lA
+lA
+KN
+lz
+md
+nd
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(48,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+ax
+Vf
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+dr
+dr
+dW
+dO
+dO
+dX
+ez
+dr
+dr
+tS
+tS
+tS
+tS
+gL
+gU
+Jy
+gn
+fZ
+go
+go
+xp
+go
+go
+go
+gc
+go
+gk
+Vz
+Tm
+Av
+lA
+lz
+lA
+OT
+lA
+OT
+mH
+lA
+OT
+Tm
+KN
+KN
+KN
+md
+nd
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+nB
+vf
+vf
+vf
+vf
+vf
+vf
+ZB
+vf
+vf
+vf
+vf
+"}
+(49,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+ax
+aR
+Qo
+bz
+bz
+bI
+bP
+bj
+bj
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+ZB
+dr
+dr
+ez
+fY
+ez
+dr
+dr
+GM
+tS
+gL
+gL
+gl
+gl
+gm
+gm
+iF
+ip
+jc
+jc
+jc
+jP
+jc
+jc
+kz
+go
+gk
+Vz
+Vz
+Tm
+lA
+lz
+mb
+lz
+lz
+mA
+lA
+lz
+OT
+Tm
+lz
+lA
+lz
+md
+nd
+mU
+nz
+ac
+aa
+aa
+aa
+aa
+ZB
+ZB
+ZB
+nB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+vf
+"}
+(50,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+ax
+ax
+ax
+bj
+bj
+bz
+bj
+bj
+bj
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+dr
+dr
+dr
+dr
+gk
+gk
+gk
+GM
+gx
+ha
+gL
+gm
+gm
+gn
+ip
+gn
+gn
+go
+go
+go
+gc
+go
+go
+kA
+jc
+OJ
+lc
+li
+vt
+Tm
+Tm
+Tm
+lz
+lz
+lz
+lA
+lz
+lz
+lz
+lz
+lA
+lz
+md
+nd
+mU
+md
+aY
+nB
+nI
+ZB
+ZB
+ld
+nV
+nV
+nB
+aa
+aa
+sT
+or
+ZK
+aa
+Sa
+or
+xv
+aa
+vf
+"}
+(51,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+bj
+bj
+bz
+bj
+bj
+bj
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Oj
+Oj
+aa
+ZB
+dr
+dr
+gk
+gx
+gl
+gl
+gU
+gm
+gm
+gn
+gn
+gn
+gn
+go
+fZ
+go
+go
+js
+gc
+go
+go
+gk
+gk
+gk
+Vz
+lj
+lB
+lQ
+lj
+Tm
+KT
+lz
+lz
+lA
+lz
+lz
+lz
+lz
+lA
+lz
+md
+nd
+mU
+nz
+ac
+aa
+nV
+ZB
+nV
+nV
+wK
+nR
+aa
+aa
+aa
+sT
+os
+ZK
+aa
+sT
+Jp
+ZK
+aa
+vf
+"}
+(52,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+ax
+bz
+ax
+ax
+ax
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+cs
+cs
+cs
+cs
+cs
+fZ
+fZ
+Fw
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+OP
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+fZ
+Uy
+fZ
+fZ
+gk
+kI
+kS
+Vz
+Vz
+lC
+Vz
+Vz
+Vz
+OT
+lA
+lA
+lA
+lA
+lA
+lA
+lA
+lA
+Tm
+md
+nd
+mU
+nz
+ac
+aa
+nV
+nV
+nV
+wK
+og
+nR
+nB
+aa
+aa
+sT
+os
+ZK
+aa
+sT
+os
+ZK
+aa
+vf
+"}
+(53,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Sv
+ax
+bj
+bj
+bj
+bj
+ax
+ax
+zC
+ax
+ax
+ax
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+dk
+aa
+aa
+aa
+aa
+aa
+aa
+cs
+fv
+Mr
+fx
+cs
+oL
+gl
+ga
+fZ
+gn
+II
+go
+fZ
+xp
+go
+go
+fZ
+xp
+gL
+go
+go
+go
+gc
+xp
+go
+gk
+gk
+kT
+OT
+OT
+lD
+lD
+lX
+Bw
+OT
+Tm
+Tm
+lz
+lz
+lA
+lz
+lz
+Tm
+Vz
+md
+nd
+mU
+nz
+ac
+aa
+nB
+nB
+nB
+nB
+qP
+nB
+nB
+ZB
+aa
+aa
+ot
+aa
+aa
+aa
+oB
+aa
+aa
+vf
+"}
+(54,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+bz
+bz
+bO
+bW
+bP
+ax
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+dk
+cs
+fw
+fx
+fx
+rb
+gb
+gm
+gz
+fZ
+gL
+gL
+go
+fZ
+gz
+gn
+gn
+fZ
+gz
+go
+go
+jr
+go
+gc
+gn
+ko
+go
+gk
+gk
+OT
+lb
+Vz
+Cd
+Vz
+Vz
+OT
+Vz
+KT
+Tm
+lz
+lA
+lz
+lz
+Tm
+Vz
+md
+nd
+mU
+nz
+ac
+aa
+nJ
+nO
+Qc
+nY
+of
+nP
+xw
+uq
+uq
+oo
+ou
+oo
+uq
+oo
+ou
+oo
+oD
+vf
+"}
+(55,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+bz
+bK
+bO
+bX
+cc
+ce
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+dk
+aa
+dE
+dk
+aa
+aa
+aa
+aa
+aa
+cs
+fx
+fx
+fx
+cs
+gb
+gn
+gn
+JM
+gL
+gn
+go
+OP
+gn
+gL
+gn
+fZ
+gn
+gL
+go
+go
+go
+gb
+go
+gn
+go
+kJ
+fZ
+KN
+Vz
+Vz
+lE
+lE
+Vz
+OT
+Vz
+Tm
+Tm
+Tm
+OT
+lz
+Tm
+Vz
+Vz
+md
+nd
+mU
+md
+nB
+nB
+nK
+nB
+nV
+nB
+ZG
+nB
+nB
+ZB
+aa
+aa
+ot
+aa
+aa
+aa
+oB
+aa
+aa
+ZB
+"}
+(56,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+bz
+bE
+bK
+bY
+cd
+cf
+ci
+ci
+ci
+ci
+aa
+aa
+aa
+aa
+aa
+dk
+dv
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+cs
+fy
+fx
+fx
+fS
+gc
+go
+go
+fZ
+fZ
+gn
+gn
+fZ
+gz
+gz
+gL
+jH
+gz
+gz
+go
+js
+gL
+gc
+go
+gn
+go
+gn
+fZ
+KN
+lk
+lE
+lE
+lE
+Vz
+OT
+Vz
+lj
+Vz
+Vz
+OT
+Tm
+Vz
+Vz
+Vz
+md
+nm
+mI
+mI
+nC
+yD
+nL
+nP
+nP
+nZ
+nR
+DS
+nB
+aa
+aa
+sT
+ov
+ZK
+aa
+sT
+ov
+ZK
+aa
+vf
+"}
+(57,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+bE
+bE
+bQ
+bK
+bO
+cf
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Oj
+dk
+Oj
+aa
+aa
+aa
+aa
+aa
+ZB
+cs
+fz
+fx
+fx
+fS
+gc
+go
+gA
+fZ
+go
+go
+hb
+fZ
+fZ
+jH
+gk
+gk
+gk
+gk
+gk
+gk
+go
+gc
+gL
+go
+go
+fZ
+fZ
+ch
+ch
+ch
+ch
+ch
+md
+mf
+mf
+TD
+mf
+mf
+mf
+md
+md
+md
+md
+md
+nd
+mU
+mZ
+nB
+nB
+nB
+nQ
+nR
+oI
+oh
+nR
+nB
+aa
+aa
+cV
+vs
+ZK
+aa
+sT
+ov
+ZK
+aa
+vf
+"}
+(58,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+bz
+bL
+bR
+bF
+bE
+cf
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Oj
+Oj
+Oj
+aa
+aa
+aa
+aa
+ZB
+ZB
+cs
+fA
+fx
+fx
+fS
+gc
+go
+go
+fZ
+gM
+go
+go
+fZ
+gz
+hD
+gk
+Bx
+IA
+IA
+iq
+gk
+go
+gc
+go
+kq
+go
+kK
+aa
+gD
+ay
+ZB
+ZB
+ZB
+me
+kw
+AK
+Sb
+mI
+mI
+mI
+mI
+mI
+mI
+mI
+mX
+nn
+mU
+mZ
+GI
+nG
+nM
+nR
+nX
+oa
+oi
+nV
+nB
+aa
+aa
+sT
+Ed
+ZK
+dk
+sT
+oC
+ZK
+aa
+ZB
+"}
+(59,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+bz
+bM
+bL
+bE
+bO
+cf
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Oj
+Oj
+Oj
+aa
+aa
+aa
+ZB
+ZB
+ZB
+cs
+fB
+fx
+fx
+fS
+gc
+gp
+gp
+fZ
+gN
+go
+fZ
+fZ
+gz
+gz
+gk
+IA
+iq
+ia
+IA
+gk
+gk
+vr
+gk
+gk
+gk
+ch
+aa
+aa
+ZB
+ch
+aa
+ZB
+KB
+Nf
+mf
+mD
+mD
+mD
+mD
+mD
+mD
+mf
+mU
+mU
+mZ
+mU
+mU
+mU
+nG
+nM
+nS
+nR
+ob
+nR
+nR
+nB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+ZB
+"}
+(60,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+Sv
+ax
+bj
+bj
+bj
+bj
+ax
+bF
+bK
+bK
+bZ
+bz
+cg
+cj
+cj
+cj
+cr
+cr
+cJ
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+gd
+cs
+cs
+fZ
+fZ
+fZ
+fZ
+fZ
+hD
+gL
+gk
+Bx
+IA
+aa
+aa
+Uz
+fZ
+gc
+fZ
+fD
+fD
+ZB
+aa
+aa
+aa
+ZB
+aa
+aa
+Og
+aa
+aa
+tn
+tn
+aa
+aa
+aa
+aa
+md
+mV
+mU
+mU
+mU
+mU
+mU
+mf
+mf
+mf
+mf
+mf
+mf
+mf
+mf
+vf
+vf
+vf
+vf
+ZB
+vf
+vf
+ZB
+ZB
+vf
+aa
+"}
+(61,1,1) = {"
+aa
+aa
+aa
+ZB
+vf
+vf
+vf
+vf
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+bG
+bz
+bO
+bO
+bO
+ax
+bj
+bj
+bj
+cs
+ye
+cK
+cx
+cT
+ye
+dl
+dw
+cx
+dl
+dw
+ye
+cx
+cx
+cs
+cs
+cs
+cs
+cs
+fx
+ge
+qr
+fx
+fZ
+gO
+fZ
+fZ
+fZ
+gz
+gL
+gk
+iq
+IA
+aa
+aa
+ZB
+jG
+jR
+jG
+ZB
+ZB
+aa
+aa
+eV
+ZB
+ZB
+aa
+aa
+Og
+ay
+ch
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+md
+mU
+mU
+mU
+mU
+mZ
+nH
+nN
+nN
+nN
+oc
+nN
+nN
+nN
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(62,1,1) = {"
+aa
+aa
+aa
+aa
+ZB
+aa
+aa
+vf
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+bz
+bO
+bO
+bz
+bz
+ax
+bj
+bj
+bj
+cs
+cx
+cK
+cx
+cT
+cx
+cx
+Yh
+lh
+cx
+Yh
+Ws
+cx
+cx
+cs
+cx
+ye
+cx
+cs
+fx
+MY
+fT
+fT
+rH
+Nw
+aa
+ZB
+ch
+Mj
+ch
+ZB
+aa
+aa
+aa
+aa
+ZB
+jG
+jS
+ch
+aa
+aa
+aa
+aa
+aa
+ZB
+dk
+aa
+qT
+ZP
+aa
+tn
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+mY
+mD
+mD
+nA
+We
+mf
+mf
+mf
+mf
+mf
+mf
+mf
+mf
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(63,1,1) = {"
+ZB
+aa
+af
+ai
+ap
+ZB
+ZB
+vf
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+bj
+bj
+bj
+cs
+cy
+cK
+cx
+cT
+cx
+dm
+dy
+cF
+dY
+ep
+cF
+eH
+cF
+cF
+cF
+cF
+cF
+fK
+fT
+gf
+fT
+cL
+cs
+Nl
+ZB
+hc
+Nh
+gC
+ch
+ZB
+ZB
+ZB
+ZB
+ZB
+Uz
+ch
+jR
+AH
+jG
+aa
+aa
+aa
+aa
+ZB
+ZB
+qT
+ZP
+aa
+tn
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+it
+nE
+nH
+nN
+nN
+nN
+nN
+nN
+oc
+oc
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(64,1,1) = {"
+vf
+aa
+ag
+ai
+ap
+aa
+aa
+vf
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+ax
+ax
+ax
+ax
+ax
+ax
+ax
+bj
+bj
+bj
+cs
+cz
+cK
+cx
+cU
+cx
+cK
+dw
+cx
+cx
+dw
+cx
+cK
+cx
+cs
+cs
+cs
+cs
+cs
+fx
+fx
+fx
+fx
+cs
+Gj
+Rp
+ZD
+ay
+gC
+hc
+ZB
+aa
+aa
+aa
+aa
+ZB
+jG
+jG
+ay
+jG
+aa
+aa
+aa
+aa
+aa
+ZB
+tp
+aa
+aa
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+it
+ml
+mf
+mf
+mf
+mf
+mf
+mf
+mf
+mf
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(65,1,1) = {"
+vf
+aa
+ah
+aj
+ap
+aa
+aa
+vf
+aa
+aa
+aa
+aa
+Uz
+ax
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+cs
+cA
+cM
+cF
+Kw
+cF
+dn
+dw
+cx
+cx
+dw
+cx
+eI
+cx
+cx
+cs
+fC
+fC
+cs
+fx
+gg
+fx
+fx
+cs
+aa
+ay
+GT
+ay
+gC
+hc
+aa
+aa
+aa
+aa
+aa
+Uz
+aa
+jG
+kc
+jG
+aa
+aa
+aa
+aa
+aa
+qT
+ZP
+aa
+tn
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+it
+ml
+vC
+aa
+aa
+aa
+aa
+aa
+qY
+qY
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(66,1,1) = {"
+vf
+aa
+aa
+ak
+aa
+aa
+aa
+vf
+Uz
+Uz
+Uz
+Uz
+Uz
+ax
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+cs
+cB
+cN
+aE
+cs
+cs
+Io
+cs
+dF
+dF
+eq
+Fu
+eJ
+eO
+dF
+cs
+fC
+fC
+cs
+cs
+cs
+cs
+cs
+cs
+ZB
+aa
+ts
+MZ
+ay
+hc
+aa
+aa
+dk
+aa
+aa
+ZB
+aa
+jG
+kd
+ay
+aa
+aa
+kU
+aa
+aa
+tp
+aa
+aa
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+mZ
+vC
+aa
+aa
+aa
+aa
+aa
+qY
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(67,1,1) = {"
+vf
+aa
+ah
+al
+ap
+aa
+aa
+as
+as
+aF
+Dz
+aS
+aS
+aS
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+cs
+cs
+cs
+cs
+cs
+cs
+ws
+cs
+dG
+dZ
+ea
+KM
+sj
+eP
+fe
+fo
+aY
+ZB
+ZB
+dk
+ZB
+aa
+aa
+aa
+ZB
+aa
+hc
+oQ
+gC
+hc
+aa
+aa
+aa
+aa
+aa
+ZB
+aa
+ch
+ke
+fD
+aa
+aa
+aa
+aa
+qT
+ZP
+ZB
+tn
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+vC
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(68,1,1) = {"
+vf
+aa
+ah
+al
+ap
+aa
+aa
+at
+az
+aB
+aN
+Wb
+aZ
+as
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+bj
+cs
+cC
+ye
+cR
+cT
+Ry
+cK
+cs
+dH
+ea
+ea
+ea
+eK
+eQ
+eP
+fo
+ZB
+aa
+aa
+aa
+ZB
+aa
+aa
+aa
+ay
+ay
+gW
+rk
+hq
+gV
+ia
+aa
+aa
+aa
+aa
+ZB
+aa
+ch
+kf
+ch
+aa
+aa
+aa
+ZB
+tp
+aa
+aa
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+mv
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(69,1,1) = {"
+aa
+aa
+ah
+al
+ap
+aa
+aa
+at
+aA
+aG
+aO
+aU
+ba
+as
+bj
+bj
+as
+as
+as
+as
+as
+as
+as
+as
+as
+as
+as
+as
+cs
+cD
+cx
+cx
+Oo
+cx
+cK
+cs
+dI
+eb
+eb
+ea
+eK
+ea
+ff
+fp
+ay
+aa
+aa
+aa
+aa
+aa
+aa
+ay
+ay
+gr
+gW
+rk
+hp
+gV
+Ev
+aa
+aa
+aa
+aa
+Uz
+ZB
+jT
+kg
+aa
+aa
+aa
+ZB
+qT
+ZP
+ZB
+aa
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+iR
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(70,1,1) = {"
+ad
+ae
+ae
+am
+aq
+ar
+ae
+VB
+aB
+aH
+aP
+az
+bb
+as
+as
+as
+as
+bk
+bA
+bH
+az
+az
+az
+bH
+zZ
+az
+bH
+as
+cs
+cE
+cx
+cS
+cT
+cx
+cK
+cs
+dJ
+ea
+ea
+ea
+eM
+eR
+bN
+fo
+ay
+aa
+aa
+aa
+aa
+aa
+aa
+ay
+gC
+gr
+gW
+id
+hr
+gV
+ia
+ia
+aa
+aa
+aa
+ZB
+aa
+ch
+kc
+jG
+aa
+aa
+aa
+tp
+aa
+aa
+ZB
+tn
+tn
+eV
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(71,1,1) = {"
+aa
+aa
+ah
+an
+ap
+aa
+aa
+av
+aC
+aI
+aP
+az
+bb
+as
+Zg
+as
+bq
+az
+az
+az
+az
+az
+az
+az
+az
+az
+az
+az
+cs
+cs
+cs
+cs
+cs
+cx
+cK
+cs
+dK
+ea
+ea
+eC
+eb
+eS
+fh
+fo
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ch
+ch
+ch
+gW
+id
+hr
+gV
+Uz
+ZB
+iq
+aa
+aa
+ZB
+aa
+ch
+jR
+jG
+aa
+aa
+ZB
+tp
+ZB
+aa
+tn
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+aa
+ab
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+mv
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(72,1,1) = {"
+ZB
+aa
+ah
+an
+ap
+aa
+aa
+aw
+aD
+aJ
+aQ
+vV
+aU
+ER
+aN
+Bu
+DX
+JT
+Mz
+DX
+aN
+aN
+aN
+aN
+aN
+ck
+az
+cm
+cs
+ye
+cs
+ye
+cs
+cx
+cK
+cs
+dL
+ea
+ea
+ea
+ea
+ea
+oE
+fo
+aY
+ZB
+ZB
+aa
+aa
+aa
+aa
+ay
+ay
+ay
+gW
+Iz
+hq
+gV
+ib
+iq
+ZB
+Bx
+gV
+Uz
+aa
+ch
+kc
+jG
+aa
+aa
+qT
+ZP
+aa
+aa
+tn
+tn
+aa
+aa
+aa
+aa
+aa
+ab
+ab
+ab
+ab
+ab
+ab
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(73,1,1) = {"
+ZB
+aa
+ah
+an
+ap
+aa
+aa
+as
+as
+as
+as
+az
+az
+as
+az
+as
+bs
+bv
+bC
+bs
+az
+bS
+az
+az
+az
+aU
+aN
+aN
+Zo
+cF
+Zo
+cF
+Bl
+cF
+dq
+cs
+dI
+ea
+eb
+ea
+ea
+eS
+oE
+dz
+fD
+ZB
+aa
+aa
+aa
+aa
+ay
+ay
+aY
+gV
+gW
+Fk
+Uk
+gV
+gV
+gV
+gV
+gV
+gV
+Uz
+ZB
+hc
+kc
+jG
+aa
+kL
+Fk
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(74,1,1) = {"
+vf
+aa
+aa
+ak
+aa
+aa
+aa
+vf
+vf
+vf
+as
+JQ
+bc
+as
+as
+as
+as
+as
+as
+as
+as
+as
+az
+as
+as
+as
+as
+as
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+cs
+dM
+ec
+ea
+eD
+ea
+eT
+eQ
+dz
+ay
+aa
+aa
+aa
+aa
+ay
+ay
+gD
+gr
+gV
+ys
+ki
+hf
+Dh
+hf
+hf
+PM
+PM
+gV
+gV
+gV
+gV
+Zi
+gV
+kB
+gW
+xP
+pu
+Go
+Kv
+hf
+Hh
+hf
+hf
+hf
+hf
+hf
+UL
+rN
+xo
+xo
+xo
+xo
+gW
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(75,1,1) = {"
+vf
+aa
+ah
+an
+ap
+aa
+aa
+vf
+ZB
+vf
+vf
+aa
+bd
+Gu
+Gu
+aa
+aa
+aa
+aa
+Gu
+Gu
+as
+vV
+as
+bi
+bi
+ch
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ac
+dz
+dN
+ed
+et
+eE
+et
+eU
+fi
+dz
+ch
+aa
+aa
+aa
+aa
+ay
+ay
+gG
+gC
+gV
+ys
+kk
+vn
+vn
+vn
+vn
+vn
+WF
+WF
+PV
+Ds
+gW
+ki
+gW
+gW
+gW
+Pb
+hf
+hf
+hf
+hf
+Kg
+hf
+hf
+hf
+hf
+hf
+hf
+rN
+ML
+ML
+ML
+ML
+gW
+aa
+aa
+ab
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(76,1,1) = {"
+vf
+aa
+ah
+an
+ap
+aa
+aa
+vf
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+as
+ca
+as
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ch
+aa
+ac
+eu
+ac
+ac
+ay
+eu
+ac
+ac
+aa
+aa
+ay
+ay
+ay
+ay
+gH
+gD
+gV
+ys
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+kk
+vn
+vn
+rO
+HR
+vn
+Sl
+PZ
+hf
+hf
+hf
+hf
+gW
+By
+By
+By
+By
+uO
+hf
+Qg
+bh
+bh
+bh
+bh
+gW
+ab
+ab
+aa
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(77,1,1) = {"
+vf
+aa
+ah
+ao
+ap
+ZB
+ZB
+vf
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+eV
+aa
+aa
+aa
+aa
+aa
+ay
+ay
+gr
+gC
+gr
+gP
+gV
+JG
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+hf
+Eq
+er
+gW
+gW
+ki
+hf
+hf
+hf
+tR
+gW
+KX
+KX
+KX
+KX
+uO
+hf
+Qg
+uk
+uk
+uk
+uk
+gW
+ab
+ab
+ab
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(78,1,1) = {"
+vf
+aa
+aa
+aa
+ZB
+aa
+aa
+ZB
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aY
+aY
+aY
+aY
+aY
+aY
+gV
+ys
+hf
+kt
+hf
+hf
+kt
+hf
+hf
+BA
+qw
+hf
+hf
+tE
+Hm
+su
+gW
+Ch
+hf
+xx
+hf
+Ee
+gW
+zB
+LH
+LH
+LH
+Am
+hf
+nw
+MG
+MG
+MG
+vv
+gW
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(79,1,1) = {"
+vf
+vf
+vf
+vf
+ZB
+vf
+vf
+vf
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ch
+ch
+ch
+ch
+ch
+ch
+gW
+ys
+hf
+kt
+hf
+hf
+kt
+hf
+hf
+Wf
+rr
+hf
+hf
+tE
+Hm
+su
+gW
+kV
+hf
+hf
+hf
+AW
+gW
+Bz
+Bz
+Bz
+Bz
+Am
+hf
+nw
+MM
+MM
+MM
+MM
+gW
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(80,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ay
+ay
+ay
+gD
+gr
+gQ
+gW
+ys
+hf
+kt
+kt
+qZ
+kt
+hf
+hf
+CI
+hf
+jI
+hf
+fM
+Hm
+su
+gW
+yc
+yc
+hf
+hf
+QZ
+gW
+Bz
+Bz
+Bz
+Bz
+Am
+hf
+Si
+hf
+hf
+hf
+hf
+gW
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(81,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ch
+fD
+ch
+ch
+fD
+ch
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+wG
+gW
+gW
+gW
+gW
+jU
+gW
+gW
+gW
+gW
+gV
+Mb
+Mb
+yk
+yA
+gW
+Bz
+Bz
+Bz
+Bz
+Am
+Ff
+Si
+hf
+hf
+hf
+hf
+gW
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(82,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ay
+ay
+ay
+ay
+ay
+ay
+ay
+gW
+vw
+vw
+vw
+vw
+vw
+FZ
+FZ
+FZ
+gW
+jJ
+rE
+jJ
+aa
+aa
+gV
+gV
+gV
+gV
+gV
+gV
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
+(83,1,1) = {"
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+gW
+jK
+Le
+jK
+aa
+aa
+aa
+ac
+ac
+ac
+ac
+ac
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+ab
+ab
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+aa
+"}
